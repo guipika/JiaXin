@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="dao.GunMapper" >
+  <resultMap id="BaseResultMap" type="entity.Gun" >
+    <id column="gid" property="gid" jdbcType="INTEGER" />
+    <result column="cname" property="cname" jdbcType="VARCHAR" />
+    <result column="ename" property="ename" jdbcType="VARCHAR" />
+    <result column="cdid" property="cdid" jdbcType="VARCHAR" />
+    <result column="danjiarongliang" property="danjiarongliang" jdbcType="VARCHAR" />
+    <result column="tangxian" property="tangxian" jdbcType="VARCHAR" />
+    <result column="sheshu" property="sheshu" jdbcType="VARCHAR" />
+    <result column="shengchannianxian" property="shengchannianxian" jdbcType="VARCHAR" />
+    <result column="shoujia" property="shoujia" jdbcType="VARCHAR" />
+    <result column="qiangzhong" property="qiangzhong" jdbcType="VARCHAR" />
+    <result column="gudingchang" property="gudingchang" jdbcType="VARCHAR" />
+    <result column="zdid" property="zdid" jdbcType="VARCHAR" />
+    <result column="youxiaoshecheng" property="youxiaoshecheng" jdbcType="VARCHAR" />
+    <result column="zhizaoshang" property="zhizaoshang" jdbcType="VARCHAR" />
+  </resultMap>
+  <sql id="Example_Where_Clause" >
+    <where >
+      <foreach collection="oredCriteria" item="criteria" separator="or" >
+        <if test="criteria.valid" >
+          <trim prefix="(" suffix=")" prefixOverrides="and" >
+            <foreach collection="criteria.criteria" item="criterion" >
+              <choose >
+                <when test="criterion.noValue" >
+                  and ${criterion.condition}
+                </when>
+                <when test="criterion.singleValue" >
+                  and ${criterion.condition} #{criterion.value}
+                </when>
+                <when test="criterion.betweenValue" >
+                  and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                </when>
+                <when test="criterion.listValue" >
+                  and ${criterion.condition}
+                  <foreach collection="criterion.value" item="listItem" open="(" close=")" separator="," >
+                    #{listItem}
+                  </foreach>
+                </when>
+              </choose>
+            </foreach>
+          </trim>
+        </if>
+      </foreach>
+    </where>
+  </sql>
+  <sql id="Update_By_Example_Where_Clause" >
+    <where >
+      <foreach collection="example.oredCriteria" item="criteria" separator="or" >
+        <if test="criteria.valid" >
+          <trim prefix="(" suffix=")" prefixOverrides="and" >
+            <foreach collection="criteria.criteria" item="criterion" >
+              <choose >
+                <when test="criterion.noValue" >
+                  and ${criterion.condition}
+                </when>
+                <when test="criterion.singleValue" >
+                  and ${criterion.condition} #{criterion.value}
+                </when>
+                <when test="criterion.betweenValue" >
+                  and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                </when>
+                <when test="criterion.listValue" >
+                  and ${criterion.condition}
+                  <foreach collection="criterion.value" item="listItem" open="(" close=")" separator="," >
+                    #{listItem}
+                  </foreach>
+                </when>
+              </choose>
+            </foreach>
+          </trim>
+        </if>
+      </foreach>
+    </where>
+  </sql>
+  <sql id="Base_Column_List" >
+    gid, cname, ename, cdid, danjiarongliang, tangxian, sheshu, shengchannianxian, shoujia, 
+    qiangzhong, gudingchang, zdid, youxiaoshecheng, zhizaoshang
+  </sql>
+  <select id="selectByExample" resultMap="BaseResultMap" parameterType="entity.GunExample" >
+    select
+    <if test="distinct" >
+      distinct
+    </if>
+    <include refid="Base_Column_List" />
+    from gun
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+    <if test="orderByClause != null" >
+      order by ${orderByClause}
+    </if>
+  </select>
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Integer" >
+    select 
+    <include refid="Base_Column_List" />
+    from gun
+    where gid = #{gid,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer" >
+    delete from gun
+    where gid = #{gid,jdbcType=INTEGER}
+  </delete>
+  <delete id="deleteByExample" parameterType="entity.GunExample" >
+    delete from gun
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+  </delete>
+  <insert id="insert" parameterType="entity.Gun" >
+    insert into gun (gid, cname, ename, 
+      cdid, danjiarongliang, tangxian, 
+      sheshu, shengchannianxian, shoujia, 
+      qiangzhong, gudingchang, zdid, 
+      youxiaoshecheng, zhizaoshang)
+    values (#{gid,jdbcType=INTEGER}, #{cname,jdbcType=VARCHAR}, #{ename,jdbcType=VARCHAR}, 
+      #{cdid,jdbcType=VARCHAR}, #{danjiarongliang,jdbcType=VARCHAR}, #{tangxian,jdbcType=VARCHAR}, 
+      #{sheshu,jdbcType=VARCHAR}, #{shengchannianxian,jdbcType=VARCHAR}, #{shoujia,jdbcType=VARCHAR}, 
+      #{qiangzhong,jdbcType=VARCHAR}, #{gudingchang,jdbcType=VARCHAR}, #{zdid,jdbcType=VARCHAR}, 
+      #{youxiaoshecheng,jdbcType=VARCHAR}, #{zhizaoshang,jdbcType=VARCHAR})
+  </insert>
+  <insert id="insertSelective" parameterType="entity.Gun" >
+    insert into gun
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="gid != null" >
+        gid,
+      </if>
+      <if test="cname != null" >
+        cname,
+      </if>
+      <if test="ename != null" >
+        ename,
+      </if>
+      <if test="cdid != null" >
+        cdid,
+      </if>
+      <if test="danjiarongliang != null" >
+        danjiarongliang,
+      </if>
+      <if test="tangxian != null" >
+        tangxian,
+      </if>
+      <if test="sheshu != null" >
+        sheshu,
+      </if>
+      <if test="shengchannianxian != null" >
+        shengchannianxian,
+      </if>
+      <if test="shoujia != null" >
+        shoujia,
+      </if>
+      <if test="qiangzhong != null" >
+        qiangzhong,
+      </if>
+      <if test="gudingchang != null" >
+        gudingchang,
+      </if>
+      <if test="zdid != null" >
+        zdid,
+      </if>
+      <if test="youxiaoshecheng != null" >
+        youxiaoshecheng,
+      </if>
+      <if test="zhizaoshang != null" >
+        zhizaoshang,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="gid != null" >
+        #{gid,jdbcType=INTEGER},
+      </if>
+      <if test="cname != null" >
+        #{cname,jdbcType=VARCHAR},
+      </if>
+      <if test="ename != null" >
+        #{ename,jdbcType=VARCHAR},
+      </if>
+      <if test="cdid != null" >
+        #{cdid,jdbcType=VARCHAR},
+      </if>
+      <if test="danjiarongliang != null" >
+        #{danjiarongliang,jdbcType=VARCHAR},
+      </if>
+      <if test="tangxian != null" >
+        #{tangxian,jdbcType=VARCHAR},
+      </if>
+      <if test="sheshu != null" >
+        #{sheshu,jdbcType=VARCHAR},
+      </if>
+      <if test="shengchannianxian != null" >
+        #{shengchannianxian,jdbcType=VARCHAR},
+      </if>
+      <if test="shoujia != null" >
+        #{shoujia,jdbcType=VARCHAR},
+      </if>
+      <if test="qiangzhong != null" >
+        #{qiangzhong,jdbcType=VARCHAR},
+      </if>
+      <if test="gudingchang != null" >
+        #{gudingchang,jdbcType=VARCHAR},
+      </if>
+      <if test="zdid != null" >
+        #{zdid,jdbcType=VARCHAR},
+      </if>
+      <if test="youxiaoshecheng != null" >
+        #{youxiaoshecheng,jdbcType=VARCHAR},
+      </if>
+      <if test="zhizaoshang != null" >
+        #{zhizaoshang,jdbcType=VARCHAR},
+      </if>
+    </trim>
+  </insert>
+  <select id="countByExample" parameterType="entity.GunExample" resultType="java.lang.Integer" >
+    select count(*) from gun
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+  </select>
+  <update id="updateByExampleSelective" parameterType="map" >
+    update gun
+    <set >
+      <if test="record.gid != null" >
+        gid = #{record.gid,jdbcType=INTEGER},
+      </if>
+      <if test="record.cname != null" >
+        cname = #{record.cname,jdbcType=VARCHAR},
+      </if>
+      <if test="record.ename != null" >
+        ename = #{record.ename,jdbcType=VARCHAR},
+      </if>
+      <if test="record.cdid != null" >
+        cdid = #{record.cdid,jdbcType=VARCHAR},
+      </if>
+      <if test="record.danjiarongliang != null" >
+        danjiarongliang = #{record.danjiarongliang,jdbcType=VARCHAR},
+      </if>
+      <if test="record.tangxian != null" >
+        tangxian = #{record.tangxian,jdbcType=VARCHAR},
+      </if>
+      <if test="record.sheshu != null" >
+        sheshu = #{record.sheshu,jdbcType=VARCHAR},
+      </if>
+      <if test="record.shengchannianxian != null" >
+        shengchannianxian = #{record.shengchannianxian,jdbcType=VARCHAR},
+      </if>
+      <if test="record.shoujia != null" >
+        shoujia = #{record.shoujia,jdbcType=VARCHAR},
+      </if>
+      <if test="record.qiangzhong != null" >
+        qiangzhong = #{record.qiangzhong,jdbcType=VARCHAR},
+      </if>
+      <if test="record.gudingchang != null" >
+        gudingchang = #{record.gudingchang,jdbcType=VARCHAR},
+      </if>
+      <if test="record.zdid != null" >
+        zdid = #{record.zdid,jdbcType=VARCHAR},
+      </if>
+      <if test="record.youxiaoshecheng != null" >
+        youxiaoshecheng = #{record.youxiaoshecheng,jdbcType=VARCHAR},
+      </if>
+      <if test="record.zhizaoshang != null" >
+        zhizaoshang = #{record.zhizaoshang,jdbcType=VARCHAR},
+      </if>
+    </set>
+    <if test="_parameter != null" >
+      <include refid="Update_By_Example_Where_Clause" />
+    </if>
+  </update>
+  <update id="updateByExample" parameterType="map" >
+    update gun
+    set gid = #{record.gid,jdbcType=INTEGER},
+      cname = #{record.cname,jdbcType=VARCHAR},
+      ename = #{record.ename,jdbcType=VARCHAR},
+      cdid = #{record.cdid,jdbcType=VARCHAR},
+      danjiarongliang = #{record.danjiarongliang,jdbcType=VARCHAR},
+      tangxian = #{record.tangxian,jdbcType=VARCHAR},
+      sheshu = #{record.sheshu,jdbcType=VARCHAR},
+      shengchannianxian = #{record.shengchannianxian,jdbcType=VARCHAR},
+      shoujia = #{record.shoujia,jdbcType=VARCHAR},
+      qiangzhong = #{record.qiangzhong,jdbcType=VARCHAR},
+      gudingchang = #{record.gudingchang,jdbcType=VARCHAR},
+      zdid = #{record.zdid,jdbcType=VARCHAR},
+      youxiaoshecheng = #{record.youxiaoshecheng,jdbcType=VARCHAR},
+      zhizaoshang = #{record.zhizaoshang,jdbcType=VARCHAR}
+    <if test="_parameter != null" >
+      <include refid="Update_By_Example_Where_Clause" />
+    </if>
+  </update>
+  <update id="updateByPrimaryKeySelective" parameterType="entity.Gun" >
+    update gun
+    <set >
+      <if test="cname != null" >
+        cname = #{cname,jdbcType=VARCHAR},
+      </if>
+      <if test="ename != null" >
+        ename = #{ename,jdbcType=VARCHAR},
+      </if>
+      <if test="cdid != null" >
+        cdid = #{cdid,jdbcType=VARCHAR},
+      </if>
+      <if test="danjiarongliang != null" >
+        danjiarongliang = #{danjiarongliang,jdbcType=VARCHAR},
+      </if>
+      <if test="tangxian != null" >
+        tangxian = #{tangxian,jdbcType=VARCHAR},
+      </if>
+      <if test="sheshu != null" >
+        sheshu = #{sheshu,jdbcType=VARCHAR},
+      </if>
+      <if test="shengchannianxian != null" >
+        shengchannianxian = #{shengchannianxian,jdbcType=VARCHAR},
+      </if>
+      <if test="shoujia != null" >
+        shoujia = #{shoujia,jdbcType=VARCHAR},
+      </if>
+      <if test="qiangzhong != null" >
+        qiangzhong = #{qiangzhong,jdbcType=VARCHAR},
+      </if>
+      <if test="gudingchang != null" >
+        gudingchang = #{gudingchang,jdbcType=VARCHAR},
+      </if>
+      <if test="zdid != null" >
+        zdid = #{zdid,jdbcType=VARCHAR},
+      </if>
+      <if test="youxiaoshecheng != null" >
+        youxiaoshecheng = #{youxiaoshecheng,jdbcType=VARCHAR},
+      </if>
+      <if test="zhizaoshang != null" >
+        zhizaoshang = #{zhizaoshang,jdbcType=VARCHAR},
+      </if>
+    </set>
+    where gid = #{gid,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="entity.Gun" >
+    update gun
+    set cname = #{cname,jdbcType=VARCHAR},
+      ename = #{ename,jdbcType=VARCHAR},
+      cdid = #{cdid,jdbcType=VARCHAR},
+      danjiarongliang = #{danjiarongliang,jdbcType=VARCHAR},
+      tangxian = #{tangxian,jdbcType=VARCHAR},
+      sheshu = #{sheshu,jdbcType=VARCHAR},
+      shengchannianxian = #{shengchannianxian,jdbcType=VARCHAR},
+      shoujia = #{shoujia,jdbcType=VARCHAR},
+      qiangzhong = #{qiangzhong,jdbcType=VARCHAR},
+      gudingchang = #{gudingchang,jdbcType=VARCHAR},
+      zdid = #{zdid,jdbcType=VARCHAR},
+      youxiaoshecheng = #{youxiaoshecheng,jdbcType=VARCHAR},
+      zhizaoshang = #{zhizaoshang,jdbcType=VARCHAR}
+    where gid = #{gid,jdbcType=INTEGER}
+  </update>
+</mapper>
