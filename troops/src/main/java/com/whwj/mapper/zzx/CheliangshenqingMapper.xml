@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.whwj.mapper.zzx.CheliangshenqingMapper" >
+  <resultMap id="BaseResultMap" type="com.whwj.entity.zzx.Cheliangshenqing" >
+    <id column="id" property="id" jdbcType="INTEGER" />
+    <result column="shenqingrenid" property="shenqingrenid" jdbcType="INTEGER" />
+    <result column="shenqingcheliang" property="shenqingcheliang" jdbcType="INTEGER" />
+    <result column="fuzerenid" property="fuzerenid" jdbcType="INTEGER" />
+    <result column="shenqingshijian" property="shenqingshijian" jdbcType="TIMESTAMP" />
+    <result column="shenqingdao" property="shenqingdao" jdbcType="TIMESTAMP" />
+  </resultMap>
+  <sql id="Example_Where_Clause" >
+    <where >
+      <foreach collection="oredCriteria" item="criteria" separator="or" >
+        <if test="criteria.valid" >
+          <trim prefix="(" suffix=")" prefixOverrides="and" >
+            <foreach collection="criteria.criteria" item="criterion" >
+              <choose >
+                <when test="criterion.noValue" >
+                  and ${criterion.condition}
+                </when>
+                <when test="criterion.singleValue" >
+                  and ${criterion.condition} #{criterion.value}
+                </when>
+                <when test="criterion.betweenValue" >
+                  and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                </when>
+                <when test="criterion.listValue" >
+                  and ${criterion.condition}
+                  <foreach collection="criterion.value" item="listItem" open="(" close=")" separator="," >
+                    #{listItem}
+                  </foreach>
+                </when>
+              </choose>
+            </foreach>
+          </trim>
+        </if>
+      </foreach>
+    </where>
+  </sql>
+  <sql id="Update_By_Example_Where_Clause" >
+    <where >
+      <foreach collection="example.oredCriteria" item="criteria" separator="or" >
+        <if test="criteria.valid" >
+          <trim prefix="(" suffix=")" prefixOverrides="and" >
+            <foreach collection="criteria.criteria" item="criterion" >
+              <choose >
+                <when test="criterion.noValue" >
+                  and ${criterion.condition}
+                </when>
+                <when test="criterion.singleValue" >
+                  and ${criterion.condition} #{criterion.value}
+                </when>
+                <when test="criterion.betweenValue" >
+                  and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                </when>
+                <when test="criterion.listValue" >
+                  and ${criterion.condition}
+                  <foreach collection="criterion.value" item="listItem" open="(" close=")" separator="," >
+                    #{listItem}
+                  </foreach>
+                </when>
+              </choose>
+            </foreach>
+          </trim>
+        </if>
+      </foreach>
+    </where>
+  </sql>
+  <sql id="Base_Column_List" >
+    id, shenqingrenid, shenqingcheliang, fuzerenid, shenqingshijian, shenqingdao
+  </sql>
+  <select id="selectByExample" resultMap="BaseResultMap" parameterType="com.whwj.entity.zzx.CheliangshenqingExample" >
+    select
+    <if test="distinct" >
+      distinct
+    </if>
+    <include refid="Base_Column_List" />
+    from cheliangshenqing
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+    <if test="orderByClause != null" >
+      order by ${orderByClause}
+    </if>
+  </select>
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Integer" >
+    select 
+    <include refid="Base_Column_List" />
+    from cheliangshenqing
+    where id = #{id,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer" >
+    delete from cheliangshenqing
+    where id = #{id,jdbcType=INTEGER}
+  </delete>
+  <delete id="deleteByExample" parameterType="com.whwj.entity.zzx.CheliangshenqingExample" >
+    delete from cheliangshenqing
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+  </delete>
+  <insert id="insert" parameterType="com.whwj.entity.zzx.Cheliangshenqing" >
+    insert into cheliangshenqing (id, shenqingrenid, shenqingcheliang, 
+      fuzerenid, shenqingshijian, shenqingdao
+      )
+    values (#{id,jdbcType=INTEGER}, #{shenqingrenid,jdbcType=INTEGER}, #{shenqingcheliang,jdbcType=INTEGER}, 
+      #{fuzerenid,jdbcType=INTEGER}, #{shenqingshijian,jdbcType=TIMESTAMP}, #{shenqingdao,jdbcType=TIMESTAMP}
+      )
+  </insert>
+  <insert id="insertSelective" parameterType="com.whwj.entity.zzx.Cheliangshenqing" >
+    insert into cheliangshenqing
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        id,
+      </if>
+      <if test="shenqingrenid != null" >
+        shenqingrenid,
+      </if>
+      <if test="shenqingcheliang != null" >
+        shenqingcheliang,
+      </if>
+      <if test="fuzerenid != null" >
+        fuzerenid,
+      </if>
+      <if test="shenqingshijian != null" >
+        shenqingshijian,
+      </if>
+      <if test="shenqingdao != null" >
+        shenqingdao,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        #{id,jdbcType=INTEGER},
+      </if>
+      <if test="shenqingrenid != null" >
+        #{shenqingrenid,jdbcType=INTEGER},
+      </if>
+      <if test="shenqingcheliang != null" >
+        #{shenqingcheliang,jdbcType=INTEGER},
+      </if>
+      <if test="fuzerenid != null" >
+        #{fuzerenid,jdbcType=INTEGER},
+      </if>
+      <if test="shenqingshijian != null" >
+        #{shenqingshijian,jdbcType=TIMESTAMP},
+      </if>
+      <if test="shenqingdao != null" >
+        #{shenqingdao,jdbcType=TIMESTAMP},
+      </if>
+    </trim>
+  </insert>
+  <select id="countByExample" parameterType="com.whwj.entity.zzx.CheliangshenqingExample" resultType="java.lang.Integer" >
+    select count(*) from cheliangshenqing
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+  </select>
+  <update id="updateByExampleSelective" parameterType="map" >
+    update cheliangshenqing
+    <set >
+      <if test="record.id != null" >
+        id = #{record.id,jdbcType=INTEGER},
+      </if>
+      <if test="record.shenqingrenid != null" >
+        shenqingrenid = #{record.shenqingrenid,jdbcType=INTEGER},
+      </if>
+      <if test="record.shenqingcheliang != null" >
+        shenqingcheliang = #{record.shenqingcheliang,jdbcType=INTEGER},
+      </if>
+      <if test="record.fuzerenid != null" >
+        fuzerenid = #{record.fuzerenid,jdbcType=INTEGER},
+      </if>
+      <if test="record.shenqingshijian != null" >
+        shenqingshijian = #{record.shenqingshijian,jdbcType=TIMESTAMP},
+      </if>
+      <if test="record.shenqingdao != null" >
+        shenqingdao = #{record.shenqingdao,jdbcType=TIMESTAMP},
+      </if>
+    </set>
+    <if test="_parameter != null" >
+      <include refid="Update_By_Example_Where_Clause" />
+    </if>
+  </update>
+  <update id="updateByExample" parameterType="map" >
+    update cheliangshenqing
+    set id = #{record.id,jdbcType=INTEGER},
+      shenqingrenid = #{record.shenqingrenid,jdbcType=INTEGER},
+      shenqingcheliang = #{record.shenqingcheliang,jdbcType=INTEGER},
+      fuzerenid = #{record.fuzerenid,jdbcType=INTEGER},
+      shenqingshijian = #{record.shenqingshijian,jdbcType=TIMESTAMP},
+      shenqingdao = #{record.shenqingdao,jdbcType=TIMESTAMP}
+    <if test="_parameter != null" >
+      <include refid="Update_By_Example_Where_Clause" />
+    </if>
+  </update>
+  <update id="updateByPrimaryKeySelective" parameterType="com.whwj.entity.zzx.Cheliangshenqing" >
+    update cheliangshenqing
+    <set >
+      <if test="shenqingrenid != null" >
+        shenqingrenid = #{shenqingrenid,jdbcType=INTEGER},
+      </if>
+      <if test="shenqingcheliang != null" >
+        shenqingcheliang = #{shenqingcheliang,jdbcType=INTEGER},
+      </if>
+      <if test="fuzerenid != null" >
+        fuzerenid = #{fuzerenid,jdbcType=INTEGER},
+      </if>
+      <if test="shenqingshijian != null" >
+        shenqingshijian = #{shenqingshijian,jdbcType=TIMESTAMP},
+      </if>
+      <if test="shenqingdao != null" >
+        shenqingdao = #{shenqingdao,jdbcType=TIMESTAMP},
+      </if>
+    </set>
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="com.whwj.entity.zzx.Cheliangshenqing" >
+    update cheliangshenqing
+    set shenqingrenid = #{shenqingrenid,jdbcType=INTEGER},
+      shenqingcheliang = #{shenqingcheliang,jdbcType=INTEGER},
+      fuzerenid = #{fuzerenid,jdbcType=INTEGER},
+      shenqingshijian = #{shenqingshijian,jdbcType=TIMESTAMP},
+      shenqingdao = #{shenqingdao,jdbcType=TIMESTAMP}
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+</mapper>
