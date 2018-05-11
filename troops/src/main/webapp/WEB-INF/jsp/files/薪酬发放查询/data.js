@@ -1,0 +1,37 @@
+﻿$axure.loadCurrentPage({
+  "url":"薪酬发放查询.html",
+  "generationDate":new Date(1385427675783.28),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"FileName"],
+  "page":{
+    "packageId":"e1dee62085384d6d9a1b0b897d9e357f",
+    "type":"Axure:Page",
+    "name":"薪酬发放查询",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[]}},
+  "masters":{
+},
+  "objectPaths":{
+}});

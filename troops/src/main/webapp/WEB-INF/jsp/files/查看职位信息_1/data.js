@@ -1,0 +1,14064 @@
+﻿$axure.loadCurrentPage({
+  "url":"查看职位信息_1.html",
+  "generationDate":new Date(1386122863517.74),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"FileName",
+"hl"],
+  "page":{
+    "packageId":"b7f4995336cb455bb79b0f81405bf10d",
+    "type":"Axure:Page",
+    "name":"查看职位信息",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"7082b7bd62784fb5930b695023b68e9b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFC9C9C9},
+            "location":{
+              "x":49,
+              "y":30},
+            "size":{
+              "width":11,
+              "height":730},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFC9C9C9}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"516de9e3bae34eca96bc0446933a8cca",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFC9C9C9},
+                "location":{
+                  "x":49,
+                  "y":30},
+                "size":{
+                  "width":11,
+                  "height":730},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFC9C9C9}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/修改密码/u0.png"}},
+{
+          "id":"edd562b7593a48bfbc5dac15355b599c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"24px",
+            "fontWeight":"bold",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF4F4F4},
+            "location":{
+              "x":60,
+              "y":130},
+            "size":{
+              "width":195,
+              "height":630},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFF4F4F4}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"157f522c90b3449da5c89d8a487ff395",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontSize":"24px",
+                "fontWeight":"bold",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF4F4F4},
+                "location":{
+                  "x":60,
+                  "y":130},
+                "size":{
+                  "width":195,
+                  "height":630},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFF4F4F4}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/修改密码/u2.png"}},
+{
+          "id":"757720c81d174d259662a51a1f09535c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFC9C9C9},
+            "location":{
+              "x":1088,
+              "y":30},
+            "size":{
+              "width":11,
+              "height":730},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFC9C9C9}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b9e5f930d1db4656864de1915884b33a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFC9C9C9},
+                "location":{
+                  "x":1088,
+                  "y":30},
+                "size":{
+                  "width":11,
+                  "height":730},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFC9C9C9}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/修改密码/u0.png"}},
+{
+          "id":"e6556930563b449987515ceb264bf5ee",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFC9C9C9},
+            "location":{
+              "x":255,
+              "y":130},
+            "size":{
+              "width":21,
+              "height":630},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFC9C9C9}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7474513427a34e6fa9cae2abc017a5ca",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFC9C9C9},
+                "location":{
+                  "x":255,
+                  "y":130},
+                "size":{
+                  "width":21,
+                  "height":630},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFC9C9C9}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/修改密码/u6.png"}},
+{
+          "id":"9524a9cc136c4863b04099d46ed75f59",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"24px",
+            "fontWeight":"bold",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF4F4F4},
+            "location":{
+              "x":276,
+              "y":130},
+            "size":{
+              "width":812,
+              "height":630},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFF4F4F4}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bfa0773c41b7449eac113296da0f62f3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontSize":"24px",
+                "fontWeight":"bold",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF4F4F4},
+                "location":{
+                  "x":276,
+                  "y":130},
+                "size":{
+                  "width":812,
+                  "height":630},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFF4F4F4}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/修改密码/u8.png"}},
+{
+          "id":"88a83670b35e41d7932ac2dd5bb7d1b7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"36px",
+            "fontWeight":"bold",
+            "location":{
+              "x":96,
+              "y":50},
+            "size":{
+              "width":333,
+              "height":42},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"87bcfa21339b4effb55f8f5aa08f9bbf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontSize":"36px",
+                "fontWeight":"bold",
+                "location":{
+                  "x":96,
+                  "y":50},
+                "size":{
+                  "width":333,
+                  "height":42},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"9b248cf6de0e4f7a8d8e2dd19c4834de",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "horizontalAlignment":"center",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1E1E1E,
+              "opacity":1},
+            "location":{
+              "x":1031,
+              "y":40},
+            "size":{
+              "width":30,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f086a13ed4584326ac0454b5a06a389a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "horizontalAlignment":"center",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1E1E1E,
+                  "opacity":1},
+                "location":{
+                  "x":1031,
+                  "y":40},
+                "size":{
+                  "width":30,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 登录",
+                      "target":{
+                        "targetType":"page",
+                        "url":"登录.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d4dc12424856437ab35fdc65246bc118",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"center",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF,
+              "opacity":1},
+            "location":{
+              "x":849,
+              "y":114},
+            "size":{
+              "width":220,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8374c3472f224a2cb6e2364f71d11b6b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "location":{
+                  "x":849,
+                  "y":114},
+                "size":{
+                  "width":220,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1fe3d1f8c55244f2bb84fcb3cc53b958",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"12px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1E1E1E,
+              "opacity":1},
+            "location":{
+              "x":296,
+              "y":140},
+            "size":{
+              "width":264,
+              "height":15},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a6d6d4f2dcb84ce094a8ef195768a455",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"12px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1E1E1E,
+                  "opacity":1},
+                "location":{
+                  "x":296,
+                  "y":140},
+                "size":{
+                  "width":264,
+                  "height":15},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 查看职位信息",
+                      "target":{
+                        "targetType":"page",
+                        "url":"查看职位信息_1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"507fc8653e27472a914e99f4b8102e88",
+          "label":"我的工作平台",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":60,
+              "y":130},
+            "size":{
+              "width":195,
+              "height":85}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onPanelStateChange":{
+              "description":"OnPanelStateChange",
+              "cases":[{
+                  "description":"Collapsed<br> (If state of 我的工作平台等于: Collapsed)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetPanelState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["507fc8653e27472a914e99f4b8102e88"]}]},
+                    "rightExpr":{
+                      "exprType":"panelDiagramLiteral",
+                      "panelPath":["507fc8653e27472a914e99f4b8102e88"],
+                      "panelIndex":0}},
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 系统设置 相对位置为 (0,-50) 缓慢进入退出 500ms",
+                      "objectsToMoves":[{
+                          "objectPath":["7bc817112c60469bb0d7ebc2f6193b64"],
+                          "moveInfo":{
+                            "moveType":"delta",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"-50",
+                              "stos":[]},
+                            "options":{
+                              "easing":"easeInOutCubic",
+                              "duration":500}}}]}]},
+{
+                  "description":"Expanded<br> (Else If True)",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 系统设置 相对位置为 (0,50) 缓慢进入退出 500ms",
+                      "objectsToMoves":[{
+                          "objectPath":["7bc817112c60469bb0d7ebc2f6193b64"],
+                          "moveInfo":{
+                            "moveType":"delta",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"50",
+                              "stos":[]},
+                            "options":{
+                              "easing":"easeInOutCubic",
+                              "duration":500}}}]}]}]}},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"dc71365f39a149f097450cb737c75b59",
+              "label":"Collapsed",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"8e7d734b1aa24efcbe02228c3fc175bf",
+                  "label":"",
+                  "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF0277BA},
+                    "paddingTop":"5",
+                    "size":{
+                      "width":195,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"7108213ca08a4acc8ed3dda1ff6f70d0",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF0277BA},
+                        "paddingTop":"5",
+                        "size":{
+                          "width":195,
+                          "height":30},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFBCBCBC},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/修改密码/u35.png"}},
+{
+                  "id":"3e834a2a7aa4416d974ea9046e53215e",
+                  "label":"",
+                  "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"133527f05bd24dfcb1aab474a2f4655b",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"8006cb737e934b418dfb59924b49a6aa",
+                  "label":"",
+                  "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"linearGradient",
+                      "colors":[{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFF999999},
+{
+                          "color":0xFF999999}]},
+                    "location":{
+                      "x":171,
+                      "y":5},
+                    "size":{
+                      "width":18,
+                      "height":18},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"97c476730d494993a1c3b358284d608a",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"linearGradient",
+                          "colors":[{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFF999999},
+{
+                              "color":0xFF999999}]},
+                        "location":{
+                          "x":171,
+                          "y":5},
+                        "size":{
+                          "width":18,
+                          "height":18},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 我的工作平台 到 Expanded show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["507fc8653e27472a914e99f4b8102e88"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u25.png"}},
+{
+                  "id":"cea796ebac5a4e05926426e361ad1f6e",
+                  "label":"",
+                  "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":177,
+                      "y":10},
+                    "size":{
+                      "width":7,
+                      "height":9},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"fde00585b8c045d99bf1375a4aeb8bf6",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":177,
+                          "y":10},
+                        "size":{
+                          "width":7,
+                          "height":9},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 我的工作平台 到 Expanded show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["507fc8653e27472a914e99f4b8102e88"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u41.png"}}]},
+{
+              "id":"0c4d550943d84f228101b5a6a2137e9b",
+              "label":"Expanded",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"f5012eb7493a4c3f88438edc44cd9f89",
+                  "label":"",
+                  "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF666666},
+                    "paddingTop":"5",
+                    "size":{
+                      "width":195,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c73d41b463e849a4949550f7a9075d11",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF666666},
+                        "paddingTop":"5",
+                        "size":{
+                          "width":195,
+                          "height":30},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFBCBCBC},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/修改密码/u19.png"}},
+{
+                  "id":"d13cf254170b40efb864eaf7c8748901",
+                  "label":"",
+                  "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"left",
+                    "location":{
+                      "x":0,
+                      "y":28},
+                    "size":{
+                      "width":195,
+                      "height":54},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"eb2dc1a6923b44db817bac8605eaa7e8",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "horizontalAlignment":"left",
+                        "location":{
+                          "x":0,
+                          "y":28},
+                        "size":{
+                          "width":195,
+                          "height":54},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFBCBCBC}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/修改密码/u21.png"}},
+{
+                  "id":"3e6332fc35744e548ab7ef834ec993f9",
+                  "label":"",
+                  "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c86c1399b4b04b029bfcf4c034bf5a54",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"2e34d43e0a054ba294ac8f26b58f4b34",
+                  "label":"",
+                  "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"linearGradient",
+                      "colors":[{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFF999999},
+{
+                          "color":0xFF999999}]},
+                    "location":{
+                      "x":169,
+                      "y":5},
+                    "size":{
+                      "width":18,
+                      "height":18},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"73e898d12fd445079092c67bf7633b81",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"linearGradient",
+                          "colors":[{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFF999999},
+{
+                              "color":0xFF999999}]},
+                        "location":{
+                          "x":169,
+                          "y":5},
+                        "size":{
+                          "width":18,
+                          "height":18},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 我的工作平台 到 Collapsed show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["507fc8653e27472a914e99f4b8102e88"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u25.png"}},
+{
+                  "id":"c3f95cceebe94488a98ee7adc3db5cd1",
+                  "label":"",
+                  "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":174,
+                      "y":11},
+                    "size":{
+                      "width":8,
+                      "height":7},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"3a4c10cbb71c40ce875982728c5df862",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":174,
+                          "y":11},
+                        "size":{
+                          "width":8,
+                          "height":7},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 我的工作平台 到 Collapsed show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["507fc8653e27472a914e99f4b8102e88"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]},
+{
+                              "action":"setFunction",
+                              "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]}]}}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u27.png"}},
+{
+                  "id":"8ddd487814c24e17be48833797834925",
+                  "label":"",
+                  "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":28},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"b6e3490a3ad24f8aaabdad5c374b6cf6",
+                      "label":"待办列表",
+                      "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"8953a9d4c7954d4bbb883581a9ccf06d",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 待办列表 等于 &quot;true&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 面试管理 等于 &quot;false&quot;, 与<br> 被选中的 录用管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]},
+{
+                                  "action":"linkWindow",
+                                  "description":"在 当前窗口 打开 待办列表",
+                                  "target":{
+                                    "targetType":"page",
+                                    "url":"待办列表.html",
+                                    "includeVariables":true},
+                                  "linkType":"current"}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/待办列表_u30.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"8eeb57133a8e4bd28f4d3eafec6487b5",
+                  "label":"",
+                  "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":54},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"87f84a17e6564274b0cade92ff3bf942",
+                      "label":"修改密码",
+                      "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"3264e36899a54cf2a0299807719809a0",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"507fc8653e27472a914e99f4b8102e88",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;true&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 面试管理 等于 &quot;false&quot;, 与<br> 被选中的 录用管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]},
+{
+                                  "action":"linkWindow",
+                                  "description":"在 当前窗口 打开 修改密码",
+                                  "target":{
+                                    "targetType":"page",
+                                    "url":"修改密码.html",
+                                    "includeVariables":true},
+                                  "linkType":"current"}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/待办列表_u30.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]}]}]},
+{
+          "id":"7bc817112c60469bb0d7ebc2f6193b64",
+          "label":"系统设置",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":60,
+              "y":161},
+            "size":{
+              "width":195,
+              "height":250}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onMove":{
+              "description":"OnMove",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 薪酬管理 跟随",
+                      "objectsToMoves":[{
+                          "objectPath":["bef1410e3fe346a296ff7317344408a8"],
+                          "moveInfo":{
+                            "moveType":"withThis",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "options":{
+}}}]}]}]},
+            "onPanelStateChange":{
+              "description":"OnPanelStateChange",
+              "cases":[{
+                  "description":"Collapsed<br> (If state of 系统设置等于: Collapsed)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetPanelState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["7bc817112c60469bb0d7ebc2f6193b64"]}]},
+                    "rightExpr":{
+                      "exprType":"panelDiagramLiteral",
+                      "panelPath":["7bc817112c60469bb0d7ebc2f6193b64"],
+                      "panelIndex":0}},
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 薪酬管理 相对位置为 (0,-180) 缓慢进入退出 500ms",
+                      "objectsToMoves":[{
+                          "objectPath":["bef1410e3fe346a296ff7317344408a8"],
+                          "moveInfo":{
+                            "moveType":"delta",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"-180",
+                              "stos":[]},
+                            "options":{
+                              "easing":"easeInOutCubic",
+                              "duration":500}}}]}]},
+{
+                  "description":"Expanded<br> (Else If True)",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 薪酬管理 相对位置为 (0,180) 缓慢进入退出 500ms",
+                      "objectsToMoves":[{
+                          "objectPath":["bef1410e3fe346a296ff7317344408a8"],
+                          "moveInfo":{
+                            "moveType":"delta",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"180",
+                              "stos":[]},
+                            "options":{
+                              "easing":"easeInOutCubic",
+                              "duration":500}}}]}]}]}},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"3a11319bcdd64cc1ab05ce172ae813ad",
+              "label":"Collapsed",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"1d85ce37988441e58a6ff6c6a3fca175",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF0277BA},
+                    "paddingTop":"5",
+                    "size":{
+                      "width":195,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"0c6ee22f1b7b4b02ae853a61e65ebe2f",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF0277BA},
+                        "paddingTop":"5",
+                        "size":{
+                          "width":195,
+                          "height":30},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFBCBCBC},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/修改密码/u35.png"}},
+{
+                  "id":"2fbfbecd1edd414b8a157c5e2c4bc961",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"bb9194b5be22415a9b0dc084bd299031",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"0d92e22f8e484f3b9306193d16ab414c",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"linearGradient",
+                      "colors":[{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFF999999},
+{
+                          "color":0xFF999999}]},
+                    "location":{
+                      "x":170,
+                      "y":6},
+                    "size":{
+                      "width":18,
+                      "height":18},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"544e84a8d3b84db8b981d0aaceedacd8",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"linearGradient",
+                          "colors":[{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFF999999},
+{
+                              "color":0xFF999999}]},
+                        "location":{
+                          "x":170,
+                          "y":6},
+                        "size":{
+                          "width":18,
+                          "height":18},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 系统设置 到 Expanded show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["7bc817112c60469bb0d7ebc2f6193b64"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u25.png"}},
+{
+                  "id":"c6d13bb3a21d4fe98738af939e63e617",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":176,
+                      "y":11},
+                    "size":{
+                      "width":7,
+                      "height":9},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"47b779eace634dab83d904a00f3ab721",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":176,
+                          "y":11},
+                        "size":{
+                          "width":7,
+                          "height":9},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 系统设置 到 Expanded",
+                              "panelsToStates":[{
+                                  "panelPath":["7bc817112c60469bb0d7ebc2f6193b64"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u41.png"}}]},
+{
+              "id":"43c4b9d9d7964d0ba600d6dcbb702e4a",
+              "label":"Expanded",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"d374e06beaa047c6b46572627fa9448c",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF666666},
+                    "paddingTop":"5",
+                    "size":{
+                      "width":195,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"9a0dd0cdd2634603bf1380ffea3999ec",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF666666},
+                        "paddingTop":"5",
+                        "size":{
+                          "width":195,
+                          "height":30},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFBCBCBC},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/修改密码/u19.png"}},
+{
+                  "id":"e212ddabddad4a528feb82f4d26e2ca1",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":28},
+                    "size":{
+                      "width":195,
+                      "height":210},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"19b8b0b779a84c7cb16763992a2b2197",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":0,
+                          "y":28},
+                        "size":{
+                          "width":195,
+                          "height":210},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFBCBCBC}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/修改密码/u54.png"}},
+{
+                  "id":"525a42e8680f46d5910f0d1c4f13905a",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"5fe3af01d7ae4d718b5a7938ad7dc952",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"cfd9458ae8484ff8893eed9f6894ceaf",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"linearGradient",
+                      "colors":[{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFF999999},
+{
+                          "color":0xFF999999}]},
+                    "location":{
+                      "x":169,
+                      "y":5},
+                    "size":{
+                      "width":18,
+                      "height":18},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"9e4de2a185f9495dbcef16a4813c61f7",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"linearGradient",
+                          "colors":[{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFF999999},
+{
+                              "color":0xFF999999}]},
+                        "location":{
+                          "x":169,
+                          "y":5},
+                        "size":{
+                          "width":18,
+                          "height":18},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 面板状态",
+                              "panelsToStates":[]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u25.png"}},
+{
+                  "id":"a99cd76f64dd447a8e86c60353b1abf5",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":174,
+                      "y":11},
+                    "size":{
+                      "width":8,
+                      "height":7},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"ad8a7c2c9d17446699520225d4a21e6f",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":174,
+                          "y":11},
+                        "size":{
+                          "width":8,
+                          "height":7},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 面板状态",
+                              "panelsToStates":[]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u27.png"}},
+{
+                  "id":"a1fef5fca04043d8a5bda57ec6308f8c",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":28},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"5ba0247d8f14495d85c86aa2aa6fdf3f",
+                      "label":"组织结构设置",
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"b9c073fcf1034dcc8bf4ec4ca605682b",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 组织结构设置 等于 &quot;true&quot;, 与<br> 被选中的 用户管理 等于 &quot;false&quot;, 与<br> 被选中的 职位设置 等于 &quot;false&quot;, 与<br> 被选中的 职称设置 等于 &quot;false&quot;, 与<br> 被选中的 题库管理设置 等于 &quot;false&quot;, 与<br> 被选中的 公共属性设置 等于 &quot;false&quot;, 与<br> 被选中的 薪酬项目设置 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放方式设置 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["5ba0247d8f14495d85c86aa2aa6fdf3f"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["0d3b311125f4423298f280cbec11c85d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["c779a52be817454db8aceafe619f3302"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e263b0ae24d34337b7b059dd9ca5f1dc"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["eb28e57d7a3b4ad98a464ff30d271da8"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["d96e050763de4e3882fa1cadcc6adf6c"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["4cff65fb77ff4131b4e0a480fabeace1"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["0e2bbc15e3cf4186a80dd44c3830d839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]},
+{
+                                  "action":"linkWindow",
+                                  "description":"在 当前窗口 打开 组织结构设置",
+                                  "target":{
+                                    "targetType":"page",
+                                    "url":"组织结构设置.html",
+                                    "includeVariables":true},
+                                  "linkType":"current"}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/待办列表_u30.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"07076ee1a0ed458281f761e8c9ec2e6a",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":54},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"0d3b311125f4423298f280cbec11c85d",
+                      "label":"用户管理",
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"8e31e4dd00c94d5ca55af89912dc4a8e",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 组织结构设置 等于 &quot;false&quot;, 与<br> 被选中的 用户管理 等于 &quot;true&quot;, 与<br> 被选中的 职位设置 等于 &quot;false&quot;, 与<br> 被选中的 职称设置 等于 &quot;false&quot;, 与<br> 被选中的 题库管理设置 等于 &quot;false&quot;, 与<br> 被选中的 公共属性设置 等于 &quot;false&quot;, 与<br> 被选中的 薪酬项目设置 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放方式设置 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["5ba0247d8f14495d85c86aa2aa6fdf3f"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["0d3b311125f4423298f280cbec11c85d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["c779a52be817454db8aceafe619f3302"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e263b0ae24d34337b7b059dd9ca5f1dc"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["eb28e57d7a3b4ad98a464ff30d271da8"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["d96e050763de4e3882fa1cadcc6adf6c"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["4cff65fb77ff4131b4e0a480fabeace1"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["0e2bbc15e3cf4186a80dd44c3830d839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]},
+{
+                                  "action":"linkWindow",
+                                  "description":"在 当前窗口 打开 用户管理",
+                                  "target":{
+                                    "targetType":"page",
+                                    "url":"用户管理.html",
+                                    "includeVariables":true},
+                                  "linkType":"current"}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/待办列表_u30.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"04dedcb14d0d43e29cc9197e342d653c",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":80},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c779a52be817454db8aceafe619f3302",
+                      "label":"职位设置",
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"cb1b57739e0242ed9e32062d58a06c33",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 组织结构设置 等于 &quot;false&quot;, 与<br> 被选中的 用户管理 等于 &quot;false&quot;, 与<br> 被选中的 职位设置 等于 &quot;true&quot;, 与<br> 被选中的 职称设置 等于 &quot;false&quot;, 与<br> 被选中的 题库管理设置 等于 &quot;false&quot;, 与<br> 被选中的 公共属性设置 等于 &quot;false&quot;, 与<br> 被选中的 薪酬项目设置 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放方式设置 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["5ba0247d8f14495d85c86aa2aa6fdf3f"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["0d3b311125f4423298f280cbec11c85d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["c779a52be817454db8aceafe619f3302"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e263b0ae24d34337b7b059dd9ca5f1dc"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["eb28e57d7a3b4ad98a464ff30d271da8"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["d96e050763de4e3882fa1cadcc6adf6c"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["4cff65fb77ff4131b4e0a480fabeace1"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["0e2bbc15e3cf4186a80dd44c3830d839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]},
+{
+                                  "action":"linkWindow",
+                                  "description":"在 当前窗口 打开 职位设置",
+                                  "target":{
+                                    "targetType":"page",
+                                    "url":"职位设置.html",
+                                    "includeVariables":true},
+                                  "linkType":"current"}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/待办列表_u30.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"57a125bd122041b79d45487146f663bf",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":106},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"e263b0ae24d34337b7b059dd9ca5f1dc",
+                      "label":"职称设置",
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"d5c1a8864561404b994c72c44c471076",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 组织结构设置 等于 &quot;false&quot;, 与<br> 被选中的 用户管理 等于 &quot;false&quot;, 与<br> 被选中的 职位设置 等于 &quot;false&quot;, 与<br> 被选中的 职称设置 等于 &quot;true&quot;, 与<br> 被选中的 题库管理设置 等于 &quot;false&quot;, 与<br> 被选中的 公共属性设置 等于 &quot;false&quot;, 与<br> 被选中的 薪酬项目设置 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放方式设置 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["5ba0247d8f14495d85c86aa2aa6fdf3f"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["0d3b311125f4423298f280cbec11c85d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["c779a52be817454db8aceafe619f3302"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e263b0ae24d34337b7b059dd9ca5f1dc"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["eb28e57d7a3b4ad98a464ff30d271da8"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["d96e050763de4e3882fa1cadcc6adf6c"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["4cff65fb77ff4131b4e0a480fabeace1"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["0e2bbc15e3cf4186a80dd44c3830d839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]},
+{
+                                  "action":"linkWindow",
+                                  "description":"在 当前窗口 打开 职称设置",
+                                  "target":{
+                                    "targetType":"page",
+                                    "url":"职称设置.html",
+                                    "includeVariables":true},
+                                  "linkType":"current"}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/待办列表_u30.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"3324d36a08934b90a045ab4ac305fbe3",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":132},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"eb28e57d7a3b4ad98a464ff30d271da8",
+                      "label":"题库管理设置",
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"35fc23ecb6474cbfb5dd7659452f2578",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 组织结构设置 等于 &quot;false&quot;, 与<br> 被选中的 用户管理 等于 &quot;false&quot;, 与<br> 被选中的 职位设置 等于 &quot;false&quot;, 与<br> 被选中的 职称设置 等于 &quot;false&quot;, 与<br> 被选中的 题库管理设置 等于 &quot;true&quot;, 与<br> 被选中的 公共属性设置 等于 &quot;false&quot;, 与<br> 被选中的 薪酬项目设置 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放方式设置 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["5ba0247d8f14495d85c86aa2aa6fdf3f"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["0d3b311125f4423298f280cbec11c85d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["c779a52be817454db8aceafe619f3302"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e263b0ae24d34337b7b059dd9ca5f1dc"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["eb28e57d7a3b4ad98a464ff30d271da8"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["d96e050763de4e3882fa1cadcc6adf6c"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["4cff65fb77ff4131b4e0a480fabeace1"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["0e2bbc15e3cf4186a80dd44c3830d839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]},
+{
+                                  "action":"linkWindow",
+                                  "description":"在 当前窗口 打开 题库管理设置",
+                                  "target":{
+                                    "targetType":"page",
+                                    "url":"题库管理设置.html",
+                                    "includeVariables":true},
+                                  "linkType":"current"}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/待办列表_u30.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"bbe674c734a64ccbb8421fe2e476d053",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":158},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"d96e050763de4e3882fa1cadcc6adf6c",
+                      "label":"公共属性设置",
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"4160b9869b114ec5a19a3a10e96ef06a",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 组织结构设置 等于 &quot;false&quot;, 与<br> 被选中的 用户管理 等于 &quot;false&quot;, 与<br> 被选中的 职位设置 等于 &quot;false&quot;, 与<br> 被选中的 职称设置 等于 &quot;false&quot;, 与<br> 被选中的 题库管理设置 等于 &quot;false&quot;, 与<br> 被选中的 公共属性设置 等于 &quot;true&quot;, 与<br> 被选中的 薪酬项目设置 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放方式设置 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["5ba0247d8f14495d85c86aa2aa6fdf3f"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["0d3b311125f4423298f280cbec11c85d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["c779a52be817454db8aceafe619f3302"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e263b0ae24d34337b7b059dd9ca5f1dc"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["eb28e57d7a3b4ad98a464ff30d271da8"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["d96e050763de4e3882fa1cadcc6adf6c"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["4cff65fb77ff4131b4e0a480fabeace1"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["0e2bbc15e3cf4186a80dd44c3830d839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]},
+{
+                                  "action":"linkWindow",
+                                  "description":"在 当前窗口 打开 公共属性设置",
+                                  "target":{
+                                    "targetType":"page",
+                                    "url":"公共属性设置.html",
+                                    "includeVariables":true},
+                                  "linkType":"current"}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/待办列表_u30.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"202b180521f744958bfa6a163dee5bf7",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":184},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"4cff65fb77ff4131b4e0a480fabeace1",
+                      "label":"薪酬项目设置",
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"c35085052a084a158fe4b82b4e73c22b",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 组织结构设置 等于 &quot;false&quot;, 与<br> 被选中的 用户管理 等于 &quot;false&quot;, 与<br> 被选中的 职位设置 等于 &quot;false&quot;, 与<br> 被选中的 职称设置 等于 &quot;false&quot;, 与<br> 被选中的 题库管理设置 等于 &quot;false&quot;, 与<br> 被选中的 公共属性设置 等于 &quot;false&quot;, 与<br> 被选中的 薪酬项目设置 等于 &quot;true&quot;, 与<br> 被选中的 薪酬发放方式设置 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["5ba0247d8f14495d85c86aa2aa6fdf3f"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["0d3b311125f4423298f280cbec11c85d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["c779a52be817454db8aceafe619f3302"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e263b0ae24d34337b7b059dd9ca5f1dc"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["eb28e57d7a3b4ad98a464ff30d271da8"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["d96e050763de4e3882fa1cadcc6adf6c"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["4cff65fb77ff4131b4e0a480fabeace1"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["0e2bbc15e3cf4186a80dd44c3830d839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]},
+{
+                                  "action":"linkWindow",
+                                  "description":"在 当前窗口 打开 薪酬项目设置",
+                                  "target":{
+                                    "targetType":"page",
+                                    "url":"薪酬项目设置.html",
+                                    "includeVariables":true},
+                                  "linkType":"current"}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/待办列表_u30.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"34102862bed2422b9757c7f37366d03f",
+                  "label":"",
+                  "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":210},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"0e2bbc15e3cf4186a80dd44c3830d839",
+                      "label":"薪酬发放方式设置",
+                      "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"a773a2c4a3b54cdd8886f088b509df69",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"7bc817112c60469bb0d7ebc2f6193b64",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 组织结构设置 等于 &quot;false&quot;, 与<br> 被选中的 用户管理 等于 &quot;false&quot;, 与<br> 被选中的 职位设置 等于 &quot;false&quot;, 与<br> 被选中的 职称设置 等于 &quot;false&quot;, 与<br> 被选中的 题库管理设置 等于 &quot;false&quot;, 与<br> 被选中的 公共属性设置 等于 &quot;false&quot;, 与<br> 被选中的 薪酬项目设置 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放方式设置 等于 &quot;true&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["5ba0247d8f14495d85c86aa2aa6fdf3f"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["0d3b311125f4423298f280cbec11c85d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["c779a52be817454db8aceafe619f3302"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e263b0ae24d34337b7b059dd9ca5f1dc"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["eb28e57d7a3b4ad98a464ff30d271da8"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["d96e050763de4e3882fa1cadcc6adf6c"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["4cff65fb77ff4131b4e0a480fabeace1"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["0e2bbc15e3cf4186a80dd44c3830d839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/待办列表_u30.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]}]}]},
+{
+          "id":"bef1410e3fe346a296ff7317344408a8",
+          "label":"薪酬管理",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":60,
+              "y":191},
+            "size":{
+              "width":195,
+              "height":379}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onMove":{
+              "description":"OnMove",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 人事管理 跟随",
+                      "objectsToMoves":[{
+                          "objectPath":["9a23b34d9e3b412583ef122a6e7de4cd"],
+                          "moveInfo":{
+                            "moveType":"withThis",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "options":{
+}}}]}]}]},
+            "onPanelStateChange":{
+              "description":"OnPanelStateChange",
+              "cases":[{
+                  "description":"Collapsed<br> (If state of 薪酬管理等于: Collapsed)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetPanelState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["bef1410e3fe346a296ff7317344408a8"]}]},
+                    "rightExpr":{
+                      "exprType":"panelDiagramLiteral",
+                      "panelPath":["bef1410e3fe346a296ff7317344408a8"],
+                      "panelIndex":0}},
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 人事管理 相对位置为 (0,-50) 缓慢进入退出 500ms",
+                      "objectsToMoves":[{
+                          "objectPath":["9a23b34d9e3b412583ef122a6e7de4cd"],
+                          "moveInfo":{
+                            "moveType":"delta",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"-50",
+                              "stos":[]},
+                            "options":{
+                              "easing":"easeInOutCubic",
+                              "duration":500}}}]}]},
+{
+                  "description":"Expanded<br> (Else If True)",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 人事管理 相对位置为 (0,50) 缓慢进入退出 500ms",
+                      "objectsToMoves":[{
+                          "objectPath":["9a23b34d9e3b412583ef122a6e7de4cd"],
+                          "moveInfo":{
+                            "moveType":"delta",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"50",
+                              "stos":[]},
+                            "options":{
+                              "easing":"easeInOutCubic",
+                              "duration":500}}}]}]}]}},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"c2ddaa27450d452a8b8a62cfbfe23483",
+              "label":"Collapsed",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"d2422f87b33344e7ac12419fcf1a4d2e",
+                  "label":"",
+                  "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF0277BA},
+                    "paddingTop":"5",
+                    "size":{
+                      "width":195,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"3c3ecd7db6b34b1ca2411df87ca39293",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF0277BA},
+                        "paddingTop":"5",
+                        "size":{
+                          "width":195,
+                          "height":30},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFBCBCBC},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/修改密码/u35.png"}},
+{
+                  "id":"6bdaa61792fa458792411eea5b72677e",
+                  "label":"",
+                  "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"16245f97add64cbeb4d5b056a09f6f5e",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"1154e27482c741f7b4b3119504d6d42a",
+                  "label":"",
+                  "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"linearGradient",
+                      "colors":[{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFF999999},
+{
+                          "color":0xFF999999}]},
+                    "location":{
+                      "x":170,
+                      "y":6},
+                    "size":{
+                      "width":18,
+                      "height":18},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"7cf03958d957477d821e4188d734dcb5",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"linearGradient",
+                          "colors":[{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFF999999},
+{
+                              "color":0xFF999999}]},
+                        "location":{
+                          "x":170,
+                          "y":6},
+                        "size":{
+                          "width":18,
+                          "height":18},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 薪酬管理 到 Expanded show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["bef1410e3fe346a296ff7317344408a8"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u25.png"}},
+{
+                  "id":"c0ac8a3fba4849c69466f6c359a7545f",
+                  "label":"",
+                  "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":176,
+                      "y":11},
+                    "size":{
+                      "width":7,
+                      "height":9},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"2eb602f0137c47fc98d0aa838a025fba",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":176,
+                          "y":11},
+                        "size":{
+                          "width":7,
+                          "height":9},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 薪酬管理 到 Expanded show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["bef1410e3fe346a296ff7317344408a8"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u41.png"}}]},
+{
+              "id":"f4701f228bc747049d28398c6c7e59b7",
+              "label":"Expanded",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"1ae3306938744b2386bdc3617e59f0a8",
+                  "label":"",
+                  "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a2460f58c87b4d91b6fef63aea1a4b56",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"ba14713848e7463e890bdb93002ebd89",
+                  "label":"",
+                  "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":28},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f0e9d633824544cbbae8df20768c9949",
+                      "label":"薪酬标准管理",
+                      "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"e1c567afa8724c84995b623e1763a476",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;true&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 面试管理 等于 &quot;false&quot;, 与<br> 被选中的 录用管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]},
+{
+                                  "action":"linkWindow",
+                                  "description":"在 当前窗口 打开 薪酬标准管理",
+                                  "target":{
+                                    "targetType":"page",
+                                    "url":"薪酬标准管理.html",
+                                    "includeVariables":true},
+                                  "linkType":"current"}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/薪酬标准管理_u98.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"09f1bd3e1c5143b6ac978836956cab22",
+                  "label":"",
+                  "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":54},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"873cd56e9308449ea44d23c687ef7df3",
+                      "label":"薪酬发放管理",
+                      "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"66782dd31ae642a997908f3193bb8135",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;true&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 面试管理 等于 &quot;false&quot;, 与<br> 被选中的 录用管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]},
+{
+                                  "action":"linkWindow",
+                                  "description":"在 当前窗口 打开 薪酬发放管理",
+                                  "target":{
+                                    "targetType":"page",
+                                    "url":"薪酬发放管理.html",
+                                    "includeVariables":true},
+                                  "linkType":"current"}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/薪酬标准管理_u98.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"51a17d7c6dff4a63a1c411bdcaf7df84",
+                  "label":"",
+                  "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF666666},
+                    "paddingTop":"5",
+                    "location":{
+                      "x":0,
+                      "y":-1},
+                    "size":{
+                      "width":195,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"9ce99249f67f42f48f4dc53d33c0ff3b",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF666666},
+                        "paddingTop":"5",
+                        "location":{
+                          "x":0,
+                          "y":-1},
+                        "size":{
+                          "width":195,
+                          "height":30},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFBCBCBC},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/修改密码/u19.png"}},
+{
+                  "id":"5642cdaf89b2474196c745c563c67ab6",
+                  "label":"",
+                  "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"linearGradient",
+                      "colors":[{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFF999999},
+{
+                          "color":0xFF999999}]},
+                    "location":{
+                      "x":168,
+                      "y":4},
+                    "size":{
+                      "width":18,
+                      "height":18},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"02954d7930c54b949c944a497fbd9114",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"linearGradient",
+                          "colors":[{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFF999999},
+{
+                              "color":0xFF999999}]},
+                        "location":{
+                          "x":168,
+                          "y":4},
+                        "size":{
+                          "width":18,
+                          "height":18},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 我的工作平台 到 Collapsed show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["507fc8653e27472a914e99f4b8102e88"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u25.png"}},
+{
+                  "id":"331b99f60e9e481b90d2bee7935291c8",
+                  "label":"",
+                  "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":173,
+                      "y":10},
+                    "size":{
+                      "width":8,
+                      "height":7},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"9c752c2540fa4755add0c98cd6590c23",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":173,
+                          "y":10},
+                        "size":{
+                          "width":8,
+                          "height":7},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 薪酬管理 到 Collapsed",
+                              "panelsToStates":[{
+                                  "panelPath":["bef1410e3fe346a296ff7317344408a8"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]},
+{
+                              "action":"setFunction",
+                              "description":"设置 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]}]}}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u27.png"}},
+{
+                  "id":"280a639887474a6aa8838a73ba3a8306",
+                  "label":"",
+                  "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"2fc0349ad2f842a0bf28467f6fdd0055",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"bef1410e3fe346a296ff7317344408a8",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}]}]},
+{
+          "id":"9a23b34d9e3b412583ef122a6e7de4cd",
+          "label":"人事管理",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":60,
+              "y":221},
+            "size":{
+              "width":195,
+              "height":379}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onMove":{
+              "description":"OnMove",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 招聘管理 跟随",
+                      "objectsToMoves":[{
+                          "objectPath":["f6550f7f0deb4386a117d0cbfbb3289e"],
+                          "moveInfo":{
+                            "moveType":"withThis",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "options":{
+}}}]}]}]},
+            "onPanelStateChange":{
+              "description":"OnPanelStateChange",
+              "cases":[{
+                  "description":"Collapsed<br> (If state of 人事管理等于: Collapsed)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetPanelState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9a23b34d9e3b412583ef122a6e7de4cd"]}]},
+                    "rightExpr":{
+                      "exprType":"panelDiagramLiteral",
+                      "panelPath":["9a23b34d9e3b412583ef122a6e7de4cd"],
+                      "panelIndex":0}},
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 招聘管理 相对位置为 (0,-25) 缓慢进入退出 500ms",
+                      "objectsToMoves":[{
+                          "objectPath":["f6550f7f0deb4386a117d0cbfbb3289e"],
+                          "moveInfo":{
+                            "moveType":"delta",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"-25",
+                              "stos":[]},
+                            "options":{
+                              "easing":"easeInOutCubic",
+                              "duration":500}}}]}]},
+{
+                  "description":"Expanded<br> (Else If True)",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 招聘管理 相对位置为 (0,25) 缓慢进入退出 500ms",
+                      "objectsToMoves":[{
+                          "objectPath":["f6550f7f0deb4386a117d0cbfbb3289e"],
+                          "moveInfo":{
+                            "moveType":"delta",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"25",
+                              "stos":[]},
+                            "options":{
+                              "easing":"easeInOutCubic",
+                              "duration":500}}}]}]}]}},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"e22766388c664b1582d1453b3da923ff",
+              "label":"Collapsed",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"4c73c7d9c46342a48b3d243895df7b7f",
+                  "label":"",
+                  "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF0277BA},
+                    "paddingTop":"5",
+                    "size":{
+                      "width":195,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"098d2d88b55f493e986c8fce3fa20f1b",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF0277BA},
+                        "paddingTop":"5",
+                        "size":{
+                          "width":195,
+                          "height":30},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFBCBCBC},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/修改密码/u35.png"}},
+{
+                  "id":"a96dccf4da2a4a6788f3243be38f22b9",
+                  "label":"",
+                  "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"41d365759d8c49a980f85cdde7a5035a",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"cc8f753dcbf847e7b35633d50868c8d3",
+                  "label":"",
+                  "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"linearGradient",
+                      "colors":[{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFF999999},
+{
+                          "color":0xFF999999}]},
+                    "location":{
+                      "x":170,
+                      "y":6},
+                    "size":{
+                      "width":18,
+                      "height":18},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a350f0fa184f4be9bd0855739d94cfda",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"linearGradient",
+                          "colors":[{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFF999999},
+{
+                              "color":0xFF999999}]},
+                        "location":{
+                          "x":170,
+                          "y":6},
+                        "size":{
+                          "width":18,
+                          "height":18},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 人事管理 到 Expanded show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["9a23b34d9e3b412583ef122a6e7de4cd"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u25.png"}},
+{
+                  "id":"719b076bce324df5bcb49204130f0881",
+                  "label":"",
+                  "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":176,
+                      "y":11},
+                    "size":{
+                      "width":7,
+                      "height":9},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"9f311f7bc5144aee8c2a4c0b3b8f543a",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":176,
+                          "y":11},
+                        "size":{
+                          "width":7,
+                          "height":9},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 人事管理 到 Expanded show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["9a23b34d9e3b412583ef122a6e7de4cd"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u41.png"}}]},
+{
+              "id":"1225f266c8bb4923978b3c8cb3fe4940",
+              "label":"Expanded",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"0dbf7ad10fac424792a3af2e49e3603c",
+                  "label":"",
+                  "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"faf407c941bf417ab62cdf39380b4cd7",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"8268ab402ff34ff2b63ed8fadb0c573e",
+                  "label":"",
+                  "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":28},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"2436a3706c9f4cb8972e7f5946d8bf04",
+                      "label":"人事档案管理",
+                      "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"546cc70b9a2b478587a481b4919f5a55",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;true&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 面试管理 等于 &quot;false&quot;, 与<br> 被选中的 录用管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/薪酬标准管理_u98.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"6b6351c724b54251a28b3a3274ec0535",
+                  "label":"",
+                  "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF666666},
+                    "paddingTop":"5",
+                    "location":{
+                      "x":0,
+                      "y":-1},
+                    "size":{
+                      "width":195,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a5362a5e011744ceaa43b88c97d4f42c",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF666666},
+                        "paddingTop":"5",
+                        "location":{
+                          "x":0,
+                          "y":-1},
+                        "size":{
+                          "width":195,
+                          "height":30},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFBCBCBC},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/修改密码/u19.png"}},
+{
+                  "id":"4c2ae11c7c8e42d5a975244667285040",
+                  "label":"",
+                  "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"linearGradient",
+                      "colors":[{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFF999999},
+{
+                          "color":0xFF999999}]},
+                    "location":{
+                      "x":168,
+                      "y":4},
+                    "size":{
+                      "width":18,
+                      "height":18},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"8d9f4a70637b46f7af02fd2616f0c73f",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"linearGradient",
+                          "colors":[{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFF999999},
+{
+                              "color":0xFF999999}]},
+                        "location":{
+                          "x":168,
+                          "y":4},
+                        "size":{
+                          "width":18,
+                          "height":18},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 我的工作平台 到 Collapsed show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["507fc8653e27472a914e99f4b8102e88"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u25.png"}},
+{
+                  "id":"60726d7d82274b2b9ec562bd888c987f",
+                  "label":"",
+                  "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":173,
+                      "y":10},
+                    "size":{
+                      "width":8,
+                      "height":7},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"3cdb9a36c4d740bb876e837fd7ff2368",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":173,
+                          "y":10},
+                        "size":{
+                          "width":8,
+                          "height":7},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 人事管理 到 Collapsed",
+                              "panelsToStates":[{
+                                  "panelPath":["9a23b34d9e3b412583ef122a6e7de4cd"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]},
+{
+                              "action":"setFunction",
+                              "description":"设置 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]}]}}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u27.png"}},
+{
+                  "id":"4638332a6a3940e49a6bfbe92bef4280",
+                  "label":"",
+                  "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"d0aed0dbd3ca43648c05cc2adb9f0f9c",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"9a23b34d9e3b412583ef122a6e7de4cd",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}]}]},
+{
+          "id":"f6550f7f0deb4386a117d0cbfbb3289e",
+          "label":"招聘管理",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":60,
+              "y":252},
+            "size":{
+              "width":195,
+              "height":379}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onMove":{
+              "description":"OnMove",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 培训管理 跟随",
+                      "objectsToMoves":[{
+                          "objectPath":["38d84614881b41599b1b9502f46ec6f4"],
+                          "moveInfo":{
+                            "moveType":"withThis",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "options":{
+}}}]}]}]},
+            "onPanelStateChange":{
+              "description":"OnPanelStateChange",
+              "cases":[{
+                  "description":"Collapsed<br> (If state of 招聘管理等于: Collapsed)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetPanelState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["f6550f7f0deb4386a117d0cbfbb3289e"]}]},
+                    "rightExpr":{
+                      "exprType":"panelDiagramLiteral",
+                      "panelPath":["f6550f7f0deb4386a117d0cbfbb3289e"],
+                      "panelIndex":1}},
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 培训管理 相对位置为 (0,-103) 缓慢进入退出 500ms",
+                      "objectsToMoves":[{
+                          "objectPath":["38d84614881b41599b1b9502f46ec6f4"],
+                          "moveInfo":{
+                            "moveType":"delta",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"-103",
+                              "stos":[]},
+                            "options":{
+                              "easing":"easeInOutCubic",
+                              "duration":500}}}]}]},
+{
+                  "description":"Expanded<br> (Else If True)",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 培训管理 相对位置为 (0,103) 缓慢进入退出 500ms",
+                      "objectsToMoves":[{
+                          "objectPath":["38d84614881b41599b1b9502f46ec6f4"],
+                          "moveInfo":{
+                            "moveType":"delta",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"103",
+                              "stos":[]},
+                            "options":{
+                              "easing":"easeInOutCubic",
+                              "duration":500}}}]}]}]}},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"cf666c01c4a3478088d3a8404143f6fb",
+              "label":"Expanded",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"ed6b32e7a7e444bf87e720b3e46c4ec4",
+                  "label":"",
+                  "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"aec079e91bf34d22a7464193df110164",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"a7516d85627e44ba9added149f6ee7d9",
+                  "label":"",
+                  "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":28},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a33ac3e8a01e45a5a9b3f0dc3988f839",
+                      "label":"职位发布管理",
+                      "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"755bc956aa564e6d867ca76b407ae87e",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;true&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 面试管理 等于 &quot;false&quot;, 与<br> 被选中的 录用管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]},
+{
+                                  "action":"linkWindow",
+                                  "description":"在 当前窗口 打开 职位发布管理",
+                                  "target":{
+                                    "targetType":"page",
+                                    "url":"职位发布管理.html",
+                                    "includeVariables":true},
+                                  "linkType":"current"}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/薪酬标准管理_u98.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"cd82e8892b8647b3901405cd76059329",
+                  "label":"",
+                  "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":54},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"ec842dc7892e4f05b1a00a5338ae8cc3",
+                      "label":"简历管理",
+                      "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"eca8689dc2f74947b7c99b376bac3d31",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;true&quot;, 与<br> 被选中的 面试管理 等于 &quot;false&quot;, 与<br> 被选中的 录用管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/薪酬标准管理_u98.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"f02b401c43a649a8af605e7a25db2ae5",
+                  "label":"",
+                  "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF666666},
+                    "paddingTop":"5",
+                    "location":{
+                      "x":0,
+                      "y":-1},
+                    "size":{
+                      "width":195,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"b2c86b66ae8a4365a20634072b22e802",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF666666},
+                        "paddingTop":"5",
+                        "location":{
+                          "x":0,
+                          "y":-1},
+                        "size":{
+                          "width":195,
+                          "height":30},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFBCBCBC},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/修改密码/u19.png"}},
+{
+                  "id":"b79e69285d0146858e581bcfcb492b6b",
+                  "label":"",
+                  "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"linearGradient",
+                      "colors":[{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFF999999},
+{
+                          "color":0xFF999999}]},
+                    "location":{
+                      "x":168,
+                      "y":4},
+                    "size":{
+                      "width":18,
+                      "height":18},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"9eae1bf94a3a4da293e5879a92e8300f",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"linearGradient",
+                          "colors":[{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFF999999},
+{
+                              "color":0xFF999999}]},
+                        "location":{
+                          "x":168,
+                          "y":4},
+                        "size":{
+                          "width":18,
+                          "height":18},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 我的工作平台 到 Collapsed show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["507fc8653e27472a914e99f4b8102e88"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u25.png"}},
+{
+                  "id":"43c6b8ba3e7c4404931a4b5d54ccf480",
+                  "label":"",
+                  "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":173,
+                      "y":10},
+                    "size":{
+                      "width":8,
+                      "height":7},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"b61a18cb857b4ea8aa7430d3357df504",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":173,
+                          "y":10},
+                        "size":{
+                          "width":8,
+                          "height":7},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 招聘管理 到 Collapsed",
+                              "panelsToStates":[{
+                                  "panelPath":["f6550f7f0deb4386a117d0cbfbb3289e"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]},
+{
+                              "action":"setFunction",
+                              "description":"设置 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]}]}}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u27.png"}},
+{
+                  "id":"693e91a3d2dd44a983f2c2feaaddb3cb",
+                  "label":"",
+                  "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"2a0726c53d544c0cbfa668657a18015b",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"ad637acafc044452aae6c69392e40b3b",
+                  "label":"",
+                  "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":80},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f3c98e1c65a34805a194ce55d177a905",
+                      "label":"面试管理",
+                      "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"78d75d619e044cc29177d63185ce4219",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 面试管理 等于 &quot;true&quot;, 与<br> 被选中的 录用管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/薪酬标准管理_u98.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"711b78d24b544aaea5315b1e23dd3e4b",
+                  "label":"",
+                  "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":106},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"6d64432a7b774940aae41dfaa9fa5cd5",
+                      "label":"录用管理",
+                      "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"16c3f33c6c43471aaa4f4497a9f660d9",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 面试管理 等于 &quot;false&quot;, 与<br> 被选中的 录用管理 等于 &quot;true&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/薪酬标准管理_u98.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]}]},
+{
+              "id":"2370774088474503b96adbce8c7720e6",
+              "label":"Collapsed",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"af2b2828f42240d19fda23cabd200125",
+                  "label":"",
+                  "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF0277BA},
+                    "paddingTop":"5",
+                    "size":{
+                      "width":195,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"b4f3ecb6aca44f2ab1d7a3f373a05fdc",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF0277BA},
+                        "paddingTop":"5",
+                        "size":{
+                          "width":195,
+                          "height":30},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFBCBCBC},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/修改密码/u35.png"}},
+{
+                  "id":"36b5b09a938c4e8b8d3e7d216805c8d4",
+                  "label":"",
+                  "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"d38bc512c294496c9c96a08e6d440768",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"1672852a253541bd81c50fe3ea1636cd",
+                  "label":"",
+                  "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"linearGradient",
+                      "colors":[{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFF999999},
+{
+                          "color":0xFF999999}]},
+                    "location":{
+                      "x":170,
+                      "y":6},
+                    "size":{
+                      "width":18,
+                      "height":18},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"3c75f6d50444497abe730fca0c74f11e",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"linearGradient",
+                          "colors":[{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFF999999},
+{
+                              "color":0xFF999999}]},
+                        "location":{
+                          "x":170,
+                          "y":6},
+                        "size":{
+                          "width":18,
+                          "height":18},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 招聘管理 到 Expanded show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["f6550f7f0deb4386a117d0cbfbb3289e"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u25.png"}},
+{
+                  "id":"03c824d9c2c84039a274ccb796190f7f",
+                  "label":"",
+                  "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":176,
+                      "y":11},
+                    "size":{
+                      "width":7,
+                      "height":9},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"082cad1c5dfc4049ab71441dbbe66259",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f6550f7f0deb4386a117d0cbfbb3289e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":176,
+                          "y":11},
+                        "size":{
+                          "width":7,
+                          "height":9},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 招聘管理 到 Expanded show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["f6550f7f0deb4386a117d0cbfbb3289e"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u41.png"}}]}]},
+{
+          "id":"38d84614881b41599b1b9502f46ec6f4",
+          "label":"培训管理",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":60,
+              "y":386},
+            "size":{
+              "width":195,
+              "height":379}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onMove":{
+              "description":"OnMove",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 数据分析 跟随",
+                      "objectsToMoves":[{
+                          "objectPath":["7fe03e3ed42b4977b15655444caaae8c"],
+                          "moveInfo":{
+                            "moveType":"withThis",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "options":{
+}}}]}]}]},
+            "onPanelStateChange":{
+              "description":"OnPanelStateChange",
+              "cases":[{
+                  "description":"Collapsed<br> (If state of 培训管理等于: Collapsed)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetPanelState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["38d84614881b41599b1b9502f46ec6f4"]}]},
+                    "rightExpr":{
+                      "exprType":"panelDiagramLiteral",
+                      "panelPath":["38d84614881b41599b1b9502f46ec6f4"],
+                      "panelIndex":0}},
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 数据分析 相对位置为 (0,-75) 缓慢进入退出 500ms",
+                      "objectsToMoves":[{
+                          "objectPath":["7fe03e3ed42b4977b15655444caaae8c"],
+                          "moveInfo":{
+                            "moveType":"delta",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"-75",
+                              "stos":[]},
+                            "options":{
+                              "easing":"easeInOutCubic",
+                              "duration":500}}}]}]},
+{
+                  "description":"Expanded<br> (Else If True)",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 数据分析 相对位置为 (0,75) 缓慢进入退出 500ms",
+                      "objectsToMoves":[{
+                          "objectPath":["7fe03e3ed42b4977b15655444caaae8c"],
+                          "moveInfo":{
+                            "moveType":"delta",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"75",
+                              "stos":[]},
+                            "options":{
+                              "easing":"easeInOutCubic",
+                              "duration":500}}}]}]}]}},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"aeb4251127b54afaa0b4a9a47b561893",
+              "label":"Collapsed",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"c64c43680a134d8997e592524a00a4aa",
+                  "label":"",
+                  "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF0277BA},
+                    "paddingTop":"5",
+                    "size":{
+                      "width":195,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f634a4de09874525b2a1ff5ad82347ed",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF0277BA},
+                        "paddingTop":"5",
+                        "size":{
+                          "width":195,
+                          "height":30},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFBCBCBC},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/修改密码/u35.png"}},
+{
+                  "id":"bcfa1f8e11e24362a53cf4cc2a51d12c",
+                  "label":"",
+                  "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"00c5c55239c4468cac244effa0c8ce2e",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"cb6f1b88d90b41b39a2601a4e4d5f9de",
+                  "label":"",
+                  "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"linearGradient",
+                      "colors":[{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFF999999},
+{
+                          "color":0xFF999999}]},
+                    "location":{
+                      "x":170,
+                      "y":6},
+                    "size":{
+                      "width":18,
+                      "height":18},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"e128f19f08534c02a8ce175afa4376d3",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"linearGradient",
+                          "colors":[{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFF999999},
+{
+                              "color":0xFF999999}]},
+                        "location":{
+                          "x":170,
+                          "y":6},
+                        "size":{
+                          "width":18,
+                          "height":18},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 培训管理 到 Expanded show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["38d84614881b41599b1b9502f46ec6f4"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u25.png"}},
+{
+                  "id":"e975310f89af4db98f30d51e96ef501c",
+                  "label":"",
+                  "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":176,
+                      "y":11},
+                    "size":{
+                      "width":7,
+                      "height":9},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"7dd5f00640ab4b2084261da3dc9608ad",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":176,
+                          "y":11},
+                        "size":{
+                          "width":7,
+                          "height":9},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 培训管理 到 Expanded show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["38d84614881b41599b1b9502f46ec6f4"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u41.png"}}]},
+{
+              "id":"9608880c1d174715a8bca6f4693314c3",
+              "label":"Expanded",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"de305e5828a24437bed078ef1fedac09",
+                  "label":"",
+                  "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"4afe876861034d8483f97ebf95de37d9",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"ec9ce584ca8a4a8b8e3e0d3e6a6dfa73",
+                  "label":"",
+                  "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":28},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"1139c76e818d41abbbfa00518668b415",
+                      "label":"培训计划",
+                      "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"eef80cedde5b42c8a31d079ab2d95b14",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 面试管理 等于 &quot;false&quot;, 与<br> 被选中的 录用管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;true&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]},
+{
+                                  "action":"linkWindow",
+                                  "description":"在 当前窗口 打开 培训计划",
+                                  "target":{
+                                    "targetType":"page",
+                                    "url":"培训计划.html",
+                                    "includeVariables":true},
+                                  "linkType":"current"}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/薪酬标准管理_u98.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"0a10151b6f174b3caaaec4187c0e8d18",
+                  "label":"",
+                  "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":54},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"dbcabe854e244b63974667f22c74045a",
+                      "label":"培训复核",
+                      "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"69c681423dd04440805405c4c8327d14",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 面试管理 等于 &quot;false&quot;, 与<br> 被选中的 录用管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;true&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]},
+{
+                                  "action":"linkWindow",
+                                  "description":"在 当前窗口 打开 培训复核",
+                                  "target":{
+                                    "targetType":"page",
+                                    "url":"培训复核.html",
+                                    "includeVariables":true},
+                                  "linkType":"current"}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/薪酬标准管理_u98.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"073992e5e56842bb946826166d14c10a",
+                  "label":"",
+                  "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF666666},
+                    "paddingTop":"5",
+                    "location":{
+                      "x":0,
+                      "y":-1},
+                    "size":{
+                      "width":195,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f2bd7d0871c845229fff0400b6801e8b",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF666666},
+                        "paddingTop":"5",
+                        "location":{
+                          "x":0,
+                          "y":-1},
+                        "size":{
+                          "width":195,
+                          "height":30},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFBCBCBC},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/修改密码/u19.png"}},
+{
+                  "id":"ea637545db914d3290c45044a8bba6a5",
+                  "label":"",
+                  "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"linearGradient",
+                      "colors":[{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFF999999},
+{
+                          "color":0xFF999999}]},
+                    "location":{
+                      "x":168,
+                      "y":4},
+                    "size":{
+                      "width":18,
+                      "height":18},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"1c13fb9555c14b768814db2169e464f5",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"linearGradient",
+                          "colors":[{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFF999999},
+{
+                              "color":0xFF999999}]},
+                        "location":{
+                          "x":168,
+                          "y":4},
+                        "size":{
+                          "width":18,
+                          "height":18},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 我的工作平台 到 Collapsed show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["507fc8653e27472a914e99f4b8102e88"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u25.png"}},
+{
+                  "id":"d006b7bc19fb4301bcf516f777414efb",
+                  "label":"",
+                  "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":173,
+                      "y":10},
+                    "size":{
+                      "width":8,
+                      "height":7},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"4a92cadfc3bb467bb45ef2cd4c756bf6",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":173,
+                          "y":10},
+                        "size":{
+                          "width":8,
+                          "height":7},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 培训管理 到 Collapsed",
+                              "panelsToStates":[{
+                                  "panelPath":["38d84614881b41599b1b9502f46ec6f4"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]},
+{
+                              "action":"setFunction",
+                              "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 面试管理 等于 &quot;false&quot;, 与<br> 被选中的 录用管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]}]}}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u27.png"}},
+{
+                  "id":"c50b109a1de54bfebb8769a59df43e84",
+                  "label":"",
+                  "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"cb27af45261d49e3966df3b8a736ac28",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"e8a32f3619aa48c09abb7da2a2a55a6c",
+                  "label":"",
+                  "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":80},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f06cebddc89247f49f7e36f50fa82019",
+                      "label":"培训考核与反馈",
+                      "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"2b3771bd86884a559a8f43d53d6c29e4",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"38d84614881b41599b1b9502f46ec6f4",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 面试管理 等于 &quot;false&quot;, 与<br> 被选中的 录用管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;true&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]},
+{
+                                  "action":"linkWindow",
+                                  "description":"在 当前窗口 打开 培训反馈",
+                                  "target":{
+                                    "targetType":"page",
+                                    "url":"培训反馈.html",
+                                    "includeVariables":true},
+                                  "linkType":"current"}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/薪酬标准管理_u98.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]}]}]},
+{
+          "id":"7fe03e3ed42b4977b15655444caaae8c",
+          "label":"数据分析",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":60,
+              "y":416},
+            "size":{
+              "width":195,
+              "height":379}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onMove":{
+              "description":"OnMove",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 Widget to (x,y)",
+                      "objectsToMoves":[]}]}]},
+            "onPanelStateChange":{
+              "description":"OnPanelStateChange",
+              "cases":[{
+                  "description":"Collapsed<br> (If state of 数据分析等于: Collapsed)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetPanelState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["7fe03e3ed42b4977b15655444caaae8c"]}]},
+                    "rightExpr":{
+                      "exprType":"panelDiagramLiteral",
+                      "panelPath":["7fe03e3ed42b4977b15655444caaae8c"],
+                      "panelIndex":0}},
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 Widget to (x,y)",
+                      "objectsToMoves":[]}]},
+{
+                  "description":"Expanded<br> (Else If True)",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 Widget to (x,y)",
+                      "objectsToMoves":[]}]}]}},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"ab216548702b41b7a782039f949871f9",
+              "label":"Collapsed",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"97c1086f72894351b44f10ac5aecd816",
+                  "label":"",
+                  "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF0277BA},
+                    "paddingTop":"5",
+                    "size":{
+                      "width":195,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f54f1d577ad74a0ba01690408bc62c49",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF0277BA},
+                        "paddingTop":"5",
+                        "size":{
+                          "width":195,
+                          "height":30},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFBCBCBC},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/修改密码/u35.png"}},
+{
+                  "id":"851d03a8279b49639fbdcbd3b08f96dd",
+                  "label":"",
+                  "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"22be6c45e7534055a9bcb459ecd92113",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"72f377d9262c45549c51fc83dd6e3986",
+                  "label":"",
+                  "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"linearGradient",
+                      "colors":[{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFF999999},
+{
+                          "color":0xFF999999}]},
+                    "location":{
+                      "x":170,
+                      "y":6},
+                    "size":{
+                      "width":18,
+                      "height":18},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"1fa9c621837548beb29e2d37626a7a02",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"linearGradient",
+                          "colors":[{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFF999999},
+{
+                              "color":0xFF999999}]},
+                        "location":{
+                          "x":170,
+                          "y":6},
+                        "size":{
+                          "width":18,
+                          "height":18},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 数据分析 到 Expanded show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["7fe03e3ed42b4977b15655444caaae8c"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u25.png"}},
+{
+                  "id":"3ebb3aea9990432ab7d41c3727ecc6d0",
+                  "label":"",
+                  "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":176,
+                      "y":11},
+                    "size":{
+                      "width":7,
+                      "height":9},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"cdf14a055e654d0f89fc989bac138613",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":176,
+                          "y":11},
+                        "size":{
+                          "width":7,
+                          "height":9},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 数据分析 到 Expanded 淡入淡出 out 500ms 淡入淡出 in 50ms show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["7fe03e3ed42b4977b15655444caaae8c"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":2,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "animateOut":{
+                                        "easing":"fade",
+                                        "duration":500},
+                                      "animateIn":{
+                                        "easing":"fade",
+                                        "duration":50},
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u41.png"}}]},
+{
+              "id":"af78359243dc452cb03f6e9c93d76c68",
+              "label":"Expanded",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"832f9345500a4c2da754d4641eb2bd06",
+                  "label":"",
+                  "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"2138c18bdae243f5859b5aafddc8579a",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"d24eeabfc9084cd4ad8f148ab5027b2f",
+                  "label":"",
+                  "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":28},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f53080e226624e82bb7124ad1fbd0fb7",
+                      "label":"职员明细表",
+                      "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"21977801e2064aa9bd539087340b1dc0",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 面试管理 等于 &quot;false&quot;, 与<br> 被选中的 录用管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;true&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/薪酬标准管理_u98.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"de57e505f78c46afa4b342ceb74bf3d5",
+                  "label":"",
+                  "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":54},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"06c03641f9bb491597aca6a6f94ef288",
+                      "label":"职员数据综合报表",
+                      "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"c3801488edaa436c9b57329fa584f33d",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;true&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/薪酬标准管理_u98.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"4278614f272b4b0185967cb53c47d8e0",
+                  "label":"",
+                  "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "horizontalAlignment":"left",
+                    "verticalAlignment":"top",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF666666},
+                    "paddingTop":"5",
+                    "location":{
+                      "x":0,
+                      "y":-1},
+                    "size":{
+                      "width":195,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"023a4124f8fa49eb9755c80f85a34071",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "horizontalAlignment":"left",
+                        "verticalAlignment":"top",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF666666},
+                        "paddingTop":"5",
+                        "location":{
+                          "x":0,
+                          "y":-1},
+                        "size":{
+                          "width":195,
+                          "height":30},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFBCBCBC},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/修改密码/u19.png"}},
+{
+                  "id":"9b50c14c01c749f6a1bac60587cff0a9",
+                  "label":"",
+                  "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"linearGradient",
+                      "colors":[{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFFFFFFFF},
+{
+                          "color":0xFF999999},
+{
+                          "color":0xFF999999}]},
+                    "location":{
+                      "x":168,
+                      "y":4},
+                    "size":{
+                      "width":18,
+                      "height":18},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"5a99205be55545a986d015d9aab9ca71",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"linearGradient",
+                          "colors":[{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFFFFFFFF},
+{
+                              "color":0xFF999999},
+{
+                              "color":0xFF999999}]},
+                        "location":{
+                          "x":168,
+                          "y":4},
+                        "size":{
+                          "width":18,
+                          "height":18},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 我的工作平台 到 Collapsed show if hidden",
+                              "panelsToStates":[{
+                                  "panelPath":["507fc8653e27472a914e99f4b8102e88"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":true,
+                                    "options":{
+                                      "compress":false}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u25.png"}},
+{
+                  "id":"5fe161c03c454f8ea37be9578aec63ea",
+                  "label":"",
+                  "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":173,
+                      "y":10},
+                    "size":{
+                      "width":8,
+                      "height":7},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"301d4afa7f954ba7a84911b09824b480",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":173,
+                          "y":10},
+                        "size":{
+                          "width":8,
+                          "height":7},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setPanelState",
+                              "description":"设置 数据分析 到 Collapsed 淡入淡出 out 500ms 淡入淡出 in 500ms",
+                              "panelsToStates":[{
+                                  "panelPath":["7fe03e3ed42b4977b15655444caaae8c"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":1,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "animateOut":{
+                                        "easing":"fade",
+                                        "duration":500},
+                                      "animateIn":{
+                                        "easing":"fade",
+                                        "duration":500},
+                                      "compress":false}}}]},
+{
+                              "action":"setFunction",
+                              "description":"设置 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"false",
+                                        "stos":[]}]}]}}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/修改密码/u27.png"}},
+{
+                  "id":"39837e1b82d44a1290d4f0780c902f77",
+                  "label":"",
+                  "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
+                    "fontWeight":"bold",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "location":{
+                      "x":7,
+                      "y":10},
+                    "size":{
+                      "width":93,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"39dc1b64eb774c7f977a3c8dbec29da7",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontWeight":"bold",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "location":{
+                          "x":7,
+                          "y":10},
+                        "size":{
+                          "width":93,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"0d787156aefb4ea0bd32bef9e27b0b34",
+                  "label":"",
+                  "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":80},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"e9b612b9a29e49c096c9e2cc10a7cac4",
+                      "label":"职员异动情况统计分析",
+                      "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"fdacf628d2e545e9becc8dc12ae219f3",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 面试管理 等于 &quot;false&quot;, 与<br> 被选中的 录用管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;true&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/薪酬标准管理_u98.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"590098b97eed46adaa912d913cfccf13",
+                  "label":"",
+                  "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":106},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a55b18083c564ce0a793127ab82886c6",
+                      "label":"储备人才统计表",
+                      "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"7cdb3ee521c64d6898e43ea5a541d045",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 面试管理 等于 &quot;false&quot;, 与<br> 被选中的 录用管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;true&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;false&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/薪酬标准管理_u98.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]},
+{
+                  "id":"e4b043f7b2744d14b61084c4bc237df0",
+                  "label":"",
+                  "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":132},
+                    "size":{
+                      "width":195,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"b80eba71f69140f2b1c7ef0dacfc152d",
+                      "label":"公司各体系结构分析",
+                      "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
+                        "fontSize":"11px",
+                        "fontWeight":"bold",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF2977A8,
+                          "opacity":1},
+                        "stateStyles":{
+                          "selected":{
+                            "underline":false,
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF999999}}},
+                        "size":{
+                          "width":195,
+                          "height":27}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"40d4c7ec178e4753b746615aa3416fc8",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"7fe03e3ed42b4977b15655444caaae8c",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Arial Negreta', 'Arial'",
+                            "fontSize":"11px",
+                            "fontWeight":"bold",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF2977A8,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "underline":false,
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFF999999}}},
+                            "size":{
+                              "width":195,
+                              "height":27}},
+                          "adaptiveStyles":{
+}}],
+                      "interactionMap":{
+                        "onClick":{
+                          "description":"OnClick",
+                          "cases":[{
+                              "description":"Case 1",
+                              "isNewIfGroup":false,
+                              "actions":[{
+                                  "action":"fadeWidget",
+                                  "description":"隐藏 ",
+                                  "objectsToFades":[]},
+{
+                                  "action":"setFunction",
+                                  "description":"设置 被选中的 待办列表 等于 &quot;false&quot;, 与<br> 被选中的 修改密码 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 不明 等于 &quot;false&quot;, 与<br> 被选中的 薪酬标准管理 等于 &quot;false&quot;, 与<br> 被选中的 薪酬发放管理 等于 &quot;false&quot;, 与<br> 被选中的 人事档案管理 等于 &quot;false&quot;, 与<br> 被选中的 职位发布管理 等于 &quot;false&quot;, 与<br> 被选中的 简历管理 等于 &quot;false&quot;, 与<br> 被选中的 面试管理 等于 &quot;false&quot;, 与<br> 被选中的 录用管理 等于 &quot;false&quot;, 与<br> 被选中的 培训计划 等于 &quot;false&quot;, 与<br> 被选中的 培训复核 等于 &quot;false&quot;, 与<br> 被选中的 培训考核与反馈 等于 &quot;false&quot;, 与<br> 被选中的 职员明细表 等于 &quot;false&quot;, 与<br> 被选中的 职员数据综合报表 等于 &quot;false&quot;, 与<br> 被选中的 职员异动情况统计分析 等于 &quot;false&quot;, 与<br> 被选中的 储备人才统计表 等于 &quot;false&quot;, 与<br> 被选中的 公司各体系结构分析 等于 &quot;true&quot;",
+                                  "expr":{
+                                    "exprType":"block",
+                                    "subExprs":[{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b6e3490a3ad24f8aaabdad5c374b6cf6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["87f84a17e6564274b0cade92ff3bf942"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f0e9d633824544cbbae8df20768c9949"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["873cd56e9308449ea44d23c687ef7df3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["2436a3706c9f4cb8972e7f5946d8bf04"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a33ac3e8a01e45a5a9b3f0dc3988f839"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["ec842dc7892e4f05b1a00a5338ae8cc3"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f3c98e1c65a34805a194ce55d177a905"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["6d64432a7b774940aae41dfaa9fa5cd5"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["1139c76e818d41abbbfa00518668b415"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["dbcabe854e244b63974667f22c74045a"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f06cebddc89247f49f7e36f50fa82019"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["f53080e226624e82bb7124ad1fbd0fb7"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["06c03641f9bb491597aca6a6f94ef288"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["e9b612b9a29e49c096c9e2cc10a7cac4"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["a55b18083c564ce0a793127ab82886c6"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"false",
+                                            "stos":[]}]},
+{
+                                        "exprType":"fcall",
+                                        "functionName":"SetCheckState",
+                                        "arguments":[{
+                                            "exprType":"pathLiteral",
+                                            "isThis":false,
+                                            "isFocused":false,
+                                            "isTarget":false,
+                                            "value":["b80eba71f69140f2b1c7ef0dacfc152d"]},
+{
+                                            "exprType":"stringLiteral",
+                                            "value":"true",
+                                            "stos":[]}]}]}},
+{
+                                  "action":"setPanelState",
+                                  "description":"设置 面板状态",
+                                  "panelsToStates":[]},
+{
+                                  "action":"setPanelOrder",
+                                  "description":"Bring&nbsp; to Front ",
+                                  "panelPaths":[]}]}]}},
+                      "tabbable":true,
+                      "images":{
+                        "normal~":"images/修改密码/薪酬标准管理_u98.png",
+                        "selected~":"images/修改密码/待办列表_u30_selected.png"}}]}]}]},
+{
+          "id":"65b5b3660d7648718be48db5c47133ed",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1E1E1E,
+              "opacity":1},
+            "location":{
+              "x":656,
+              "y":40},
+            "size":{
+              "width":375,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"33d0104d0ecb4073bbb0fc863c5bd4a5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1E1E1E,
+                  "opacity":1},
+                "location":{
+                  "x":656,
+                  "y":40},
+                "size":{
+                  "width":375,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"636a4b6ef689422889a1b15288d1e7a1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "location":{
+              "x":874,
+              "y":223},
+            "size":{
+              "width":104,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0aa5125775724fb8932d2d891ee2260d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "location":{
+                  "x":874,
+                  "y":223},
+                "size":{
+                  "width":104,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8100bd2332b640898c595fff54b26374",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":364,
+              "y":222},
+            "size":{
+              "width":188,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"83f9f7bd2a1b4062942e06bca438f23c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "location":{
+              "x":296,
+              "y":176},
+            "size":{
+              "width":86,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"caef339f3e1e4e78b5809e22f64e8b20",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "location":{
+                  "x":296,
+                  "y":176},
+                "size":{
+                  "width":86,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"4de012235e0a45eca2462500013bd711",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "location":{
+              "x":296,
+              "y":323},
+            "size":{
+              "width":90,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c2478a3590534712b32c3cbf1a5da830",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "location":{
+                  "x":296,
+                  "y":323},
+                "size":{
+                  "width":90,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"9b080fc16266470fabc57014cf8f9359",
+          "label":"",
+          "type":"textArea",
+          "styleType":"textArea",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":364,
+              "y":323},
+            "size":{
+              "width":665,
+              "height":167}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"1f6d847b7b02482ba141e6c00f0ed7e0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"bold",
+            "location":{
+              "x":296,
+              "y":225},
+            "size":{
+              "width":75,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"175ae2d9f19846f088b1ec5ca1904389",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"bold",
+                "location":{
+                  "x":296,
+                  "y":225},
+                "size":{
+                  "width":75,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ba9b24790a3241229adc5f1d7941f68f",
+          "label":"Date Input Field",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":708,
+              "y":269},
+            "size":{
+              "width":92,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"c64dce65ad4d46849edc6d3bb23f05b2",
+          "label":"Date Input Field",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":942,
+              "y":265},
+            "size":{
+              "width":90,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"bec59e37882e4ead8463e7e9f7825a63",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "location":{
+              "x":872,
+              "y":171},
+            "size":{
+              "width":70,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cd848788c43f412aa678d2cc5d26afa4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "location":{
+                  "x":872,
+                  "y":171},
+                "size":{
+                  "width":70,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8c6a492e9a174b108b3abf4a7de2eb1c",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":942,
+              "y":168},
+            "size":{
+              "width":90,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"800b0576d0044a86acb47f6615bd6e77",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "location":{
+              "x":637,
+              "y":173},
+            "size":{
+              "width":86,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c7f62be9f13340919cd4129f28e685c9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "location":{
+                  "x":637,
+                  "y":173},
+                "size":{
+                  "width":86,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"eb8bbc4269ff41fab8b23ece43a49e2c",
+          "label":"",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":705,
+              "y":170},
+            "size":{
+              "width":92,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"3fea6da4f83b4330beb9be553611d962",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "location":{
+              "x":296,
+              "y":269},
+            "size":{
+              "width":86,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2b12283dfc32463d88a6e47953523ef2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "location":{
+                  "x":296,
+                  "y":269},
+                "size":{
+                  "width":86,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e1eb8a6edf754b788f6adbd148854672",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":364,
+              "y":269},
+            "size":{
+              "width":188,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"22ea879ad06c47c7a6dcc6ff208953bc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "location":{
+              "x":637,
+              "y":272},
+            "size":{
+              "width":86,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dbaf08ea6fab436e8c242d556897c118",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "location":{
+                  "x":637,
+                  "y":272},
+                "size":{
+                  "width":86,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"db7c7d4b8e7648459ffd187815f84a1f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "location":{
+              "x":874,
+              "y":268},
+            "size":{
+              "width":86,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"206bd2651427426c92a3254be8f0e0a0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "location":{
+                  "x":874,
+                  "y":268},
+                "size":{
+                  "width":86,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8e9284cb8ddd4a7cb3e484f4b451d776",
+          "label":"Styled Button",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"bold",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "stateStyles":{
+              "mouseDown":{
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFF0099FF},
+{
+                      "color":0xFF0099FF},
+{
+                      "color":0xFF006699},
+{
+                      "color":0xFF006699}]}},
+              "disabled":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFF2F2F2},
+{
+                      "color":0xFFF2F2F2},
+{
+                      "color":0xFF666666},
+{
+                      "color":0xFF666666}]},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFC9C9C9}}},
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFF99CCFF},
+{
+                  "color":0xFF99CCFF},
+{
+                  "color":0xFF0277BA},
+{
+                  "color":0xFF0277BA}]},
+            "location":{
+              "x":660,
+              "y":719},
+            "size":{
+              "width":60,
+              "height":24},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF3399FF},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fdbbc2f9fa9e41ebbf293eca16cc64f4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"bold",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseDown":{
+                    "fill":{
+                      "fillType":"linearGradient",
+                      "colors":[{
+                          "color":0xFF0099FF},
+{
+                          "color":0xFF0099FF},
+{
+                          "color":0xFF006699},
+{
+                          "color":0xFF006699}]}},
+                  "disabled":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF666666,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"linearGradient",
+                      "colors":[{
+                          "color":0xFFF2F2F2},
+{
+                          "color":0xFFF2F2F2},
+{
+                          "color":0xFF666666},
+{
+                          "color":0xFF666666}]},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFC9C9C9}}},
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFF99CCFF},
+{
+                      "color":0xFF99CCFF},
+{
+                      "color":0xFF0277BA},
+{
+                      "color":0xFF0277BA}]},
+                "location":{
+                  "x":660,
+                  "y":719},
+                "size":{
+                  "width":60,
+                  "height":24},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF3399FF},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 职位发布管理",
+                      "target":{
+                        "targetType":"page",
+                        "url":"职位发布管理.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/修改密码/styled_button_u243.png",
+            "mouseDown~":"images/修改密码/styled_button_u243_mouseDown.png",
+            "disabled~":"images/修改密码/styled_button_u243_disabled.png"}},
+{
+          "id":"e60b3a8158324cd7851feb9168215f59",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "location":{
+              "x":296,
+              "y":520},
+            "size":{
+              "width":90,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5d80cb33e53e48a4af7763498e9e1ca5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "location":{
+                  "x":296,
+                  "y":520},
+                "size":{
+                  "width":90,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"10c91054ff53425ca462267d7c68aa0d",
+          "label":"",
+          "type":"textArea",
+          "styleType":"textArea",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":364,
+              "y":520},
+            "size":{
+              "width":665,
+              "height":180}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"54f0e98b54e5465bb5ba0bc64c559345",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF818181,
+              "opacity":1},
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":364,
+              "y":172},
+            "size":{
+              "width":188,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"96dac444cb664049b0b25f7865de79bf",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":942,
+              "y":217},
+            "size":{
+              "width":90,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"e1717dcf686048b597ddbba5ea4adced",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":708,
+              "y":223},
+            "size":{
+              "width":92,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"d0e1fa9135ae4abea9792e580b68474d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"bold",
+            "location":{
+              "x":637,
+              "y":226},
+            "size":{
+              "width":71,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3cfef9608cf64365b565ec26c9c9fba1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"bold",
+                "location":{
+                  "x":637,
+                  "y":226},
+                "size":{
+                  "width":71,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "7082b7bd62784fb5930b695023b68e9b":{
+      "scriptId":"u0"},
+    "516de9e3bae34eca96bc0446933a8cca":{
+      "scriptId":"u1"},
+    "edd562b7593a48bfbc5dac15355b599c":{
+      "scriptId":"u2"},
+    "157f522c90b3449da5c89d8a487ff395":{
+      "scriptId":"u3"},
+    "757720c81d174d259662a51a1f09535c":{
+      "scriptId":"u4"},
+    "b9e5f930d1db4656864de1915884b33a":{
+      "scriptId":"u5"},
+    "e6556930563b449987515ceb264bf5ee":{
+      "scriptId":"u6"},
+    "7474513427a34e6fa9cae2abc017a5ca":{
+      "scriptId":"u7"},
+    "9524a9cc136c4863b04099d46ed75f59":{
+      "scriptId":"u8"},
+    "bfa0773c41b7449eac113296da0f62f3":{
+      "scriptId":"u9"},
+    "88a83670b35e41d7932ac2dd5bb7d1b7":{
+      "scriptId":"u10"},
+    "87bcfa21339b4effb55f8f5aa08f9bbf":{
+      "scriptId":"u11"},
+    "9b248cf6de0e4f7a8d8e2dd19c4834de":{
+      "scriptId":"u12"},
+    "f086a13ed4584326ac0454b5a06a389a":{
+      "scriptId":"u13"},
+    "d4dc12424856437ab35fdc65246bc118":{
+      "scriptId":"u14"},
+    "8374c3472f224a2cb6e2364f71d11b6b":{
+      "scriptId":"u15"},
+    "1fe3d1f8c55244f2bb84fcb3cc53b958":{
+      "scriptId":"u16"},
+    "a6d6d4f2dcb84ce094a8ef195768a455":{
+      "scriptId":"u17"},
+    "507fc8653e27472a914e99f4b8102e88":{
+      "scriptId":"u18"},
+    "8e7d734b1aa24efcbe02228c3fc175bf":{
+      "scriptId":"u19"},
+    "7108213ca08a4acc8ed3dda1ff6f70d0":{
+      "scriptId":"u20"},
+    "3e834a2a7aa4416d974ea9046e53215e":{
+      "scriptId":"u21"},
+    "133527f05bd24dfcb1aab474a2f4655b":{
+      "scriptId":"u22"},
+    "8006cb737e934b418dfb59924b49a6aa":{
+      "scriptId":"u23"},
+    "97c476730d494993a1c3b358284d608a":{
+      "scriptId":"u24"},
+    "cea796ebac5a4e05926426e361ad1f6e":{
+      "scriptId":"u25"},
+    "fde00585b8c045d99bf1375a4aeb8bf6":{
+      "scriptId":"u26"},
+    "f5012eb7493a4c3f88438edc44cd9f89":{
+      "scriptId":"u27"},
+    "c73d41b463e849a4949550f7a9075d11":{
+      "scriptId":"u28"},
+    "d13cf254170b40efb864eaf7c8748901":{
+      "scriptId":"u29"},
+    "eb2dc1a6923b44db817bac8605eaa7e8":{
+      "scriptId":"u30"},
+    "3e6332fc35744e548ab7ef834ec993f9":{
+      "scriptId":"u31"},
+    "c86c1399b4b04b029bfcf4c034bf5a54":{
+      "scriptId":"u32"},
+    "2e34d43e0a054ba294ac8f26b58f4b34":{
+      "scriptId":"u33"},
+    "73e898d12fd445079092c67bf7633b81":{
+      "scriptId":"u34"},
+    "c3f95cceebe94488a98ee7adc3db5cd1":{
+      "scriptId":"u35"},
+    "3a4c10cbb71c40ce875982728c5df862":{
+      "scriptId":"u36"},
+    "8ddd487814c24e17be48833797834925":{
+      "scriptId":"u37"},
+    "b6e3490a3ad24f8aaabdad5c374b6cf6":{
+      "scriptId":"u38"},
+    "8953a9d4c7954d4bbb883581a9ccf06d":{
+      "scriptId":"u39"},
+    "8eeb57133a8e4bd28f4d3eafec6487b5":{
+      "scriptId":"u40"},
+    "87f84a17e6564274b0cade92ff3bf942":{
+      "scriptId":"u41"},
+    "3264e36899a54cf2a0299807719809a0":{
+      "scriptId":"u42"},
+    "7bc817112c60469bb0d7ebc2f6193b64":{
+      "scriptId":"u43"},
+    "1d85ce37988441e58a6ff6c6a3fca175":{
+      "scriptId":"u44"},
+    "0c6ee22f1b7b4b02ae853a61e65ebe2f":{
+      "scriptId":"u45"},
+    "2fbfbecd1edd414b8a157c5e2c4bc961":{
+      "scriptId":"u46"},
+    "bb9194b5be22415a9b0dc084bd299031":{
+      "scriptId":"u47"},
+    "0d92e22f8e484f3b9306193d16ab414c":{
+      "scriptId":"u48"},
+    "544e84a8d3b84db8b981d0aaceedacd8":{
+      "scriptId":"u49"},
+    "c6d13bb3a21d4fe98738af939e63e617":{
+      "scriptId":"u50"},
+    "47b779eace634dab83d904a00f3ab721":{
+      "scriptId":"u51"},
+    "d374e06beaa047c6b46572627fa9448c":{
+      "scriptId":"u52"},
+    "9a0dd0cdd2634603bf1380ffea3999ec":{
+      "scriptId":"u53"},
+    "e212ddabddad4a528feb82f4d26e2ca1":{
+      "scriptId":"u54"},
+    "19b8b0b779a84c7cb16763992a2b2197":{
+      "scriptId":"u55"},
+    "525a42e8680f46d5910f0d1c4f13905a":{
+      "scriptId":"u56"},
+    "5fe3af01d7ae4d718b5a7938ad7dc952":{
+      "scriptId":"u57"},
+    "cfd9458ae8484ff8893eed9f6894ceaf":{
+      "scriptId":"u58"},
+    "9e4de2a185f9495dbcef16a4813c61f7":{
+      "scriptId":"u59"},
+    "a99cd76f64dd447a8e86c60353b1abf5":{
+      "scriptId":"u60"},
+    "ad8a7c2c9d17446699520225d4a21e6f":{
+      "scriptId":"u61"},
+    "a1fef5fca04043d8a5bda57ec6308f8c":{
+      "scriptId":"u62"},
+    "5ba0247d8f14495d85c86aa2aa6fdf3f":{
+      "scriptId":"u63"},
+    "b9c073fcf1034dcc8bf4ec4ca605682b":{
+      "scriptId":"u64"},
+    "07076ee1a0ed458281f761e8c9ec2e6a":{
+      "scriptId":"u65"},
+    "0d3b311125f4423298f280cbec11c85d":{
+      "scriptId":"u66"},
+    "8e31e4dd00c94d5ca55af89912dc4a8e":{
+      "scriptId":"u67"},
+    "04dedcb14d0d43e29cc9197e342d653c":{
+      "scriptId":"u68"},
+    "c779a52be817454db8aceafe619f3302":{
+      "scriptId":"u69"},
+    "cb1b57739e0242ed9e32062d58a06c33":{
+      "scriptId":"u70"},
+    "57a125bd122041b79d45487146f663bf":{
+      "scriptId":"u71"},
+    "e263b0ae24d34337b7b059dd9ca5f1dc":{
+      "scriptId":"u72"},
+    "d5c1a8864561404b994c72c44c471076":{
+      "scriptId":"u73"},
+    "3324d36a08934b90a045ab4ac305fbe3":{
+      "scriptId":"u74"},
+    "eb28e57d7a3b4ad98a464ff30d271da8":{
+      "scriptId":"u75"},
+    "35fc23ecb6474cbfb5dd7659452f2578":{
+      "scriptId":"u76"},
+    "bbe674c734a64ccbb8421fe2e476d053":{
+      "scriptId":"u77"},
+    "d96e050763de4e3882fa1cadcc6adf6c":{
+      "scriptId":"u78"},
+    "4160b9869b114ec5a19a3a10e96ef06a":{
+      "scriptId":"u79"},
+    "202b180521f744958bfa6a163dee5bf7":{
+      "scriptId":"u80"},
+    "4cff65fb77ff4131b4e0a480fabeace1":{
+      "scriptId":"u81"},
+    "c35085052a084a158fe4b82b4e73c22b":{
+      "scriptId":"u82"},
+    "34102862bed2422b9757c7f37366d03f":{
+      "scriptId":"u83"},
+    "0e2bbc15e3cf4186a80dd44c3830d839":{
+      "scriptId":"u84"},
+    "a773a2c4a3b54cdd8886f088b509df69":{
+      "scriptId":"u85"},
+    "bef1410e3fe346a296ff7317344408a8":{
+      "scriptId":"u86"},
+    "d2422f87b33344e7ac12419fcf1a4d2e":{
+      "scriptId":"u87"},
+    "3c3ecd7db6b34b1ca2411df87ca39293":{
+      "scriptId":"u88"},
+    "6bdaa61792fa458792411eea5b72677e":{
+      "scriptId":"u89"},
+    "16245f97add64cbeb4d5b056a09f6f5e":{
+      "scriptId":"u90"},
+    "1154e27482c741f7b4b3119504d6d42a":{
+      "scriptId":"u91"},
+    "7cf03958d957477d821e4188d734dcb5":{
+      "scriptId":"u92"},
+    "c0ac8a3fba4849c69466f6c359a7545f":{
+      "scriptId":"u93"},
+    "2eb602f0137c47fc98d0aa838a025fba":{
+      "scriptId":"u94"},
+    "1ae3306938744b2386bdc3617e59f0a8":{
+      "scriptId":"u95"},
+    "a2460f58c87b4d91b6fef63aea1a4b56":{
+      "scriptId":"u96"},
+    "ba14713848e7463e890bdb93002ebd89":{
+      "scriptId":"u97"},
+    "f0e9d633824544cbbae8df20768c9949":{
+      "scriptId":"u98"},
+    "e1c567afa8724c84995b623e1763a476":{
+      "scriptId":"u99"},
+    "09f1bd3e1c5143b6ac978836956cab22":{
+      "scriptId":"u100"},
+    "873cd56e9308449ea44d23c687ef7df3":{
+      "scriptId":"u101"},
+    "66782dd31ae642a997908f3193bb8135":{
+      "scriptId":"u102"},
+    "51a17d7c6dff4a63a1c411bdcaf7df84":{
+      "scriptId":"u103"},
+    "9ce99249f67f42f48f4dc53d33c0ff3b":{
+      "scriptId":"u104"},
+    "5642cdaf89b2474196c745c563c67ab6":{
+      "scriptId":"u105"},
+    "02954d7930c54b949c944a497fbd9114":{
+      "scriptId":"u106"},
+    "331b99f60e9e481b90d2bee7935291c8":{
+      "scriptId":"u107"},
+    "9c752c2540fa4755add0c98cd6590c23":{
+      "scriptId":"u108"},
+    "280a639887474a6aa8838a73ba3a8306":{
+      "scriptId":"u109"},
+    "2fc0349ad2f842a0bf28467f6fdd0055":{
+      "scriptId":"u110"},
+    "9a23b34d9e3b412583ef122a6e7de4cd":{
+      "scriptId":"u111"},
+    "4c73c7d9c46342a48b3d243895df7b7f":{
+      "scriptId":"u112"},
+    "098d2d88b55f493e986c8fce3fa20f1b":{
+      "scriptId":"u113"},
+    "a96dccf4da2a4a6788f3243be38f22b9":{
+      "scriptId":"u114"},
+    "41d365759d8c49a980f85cdde7a5035a":{
+      "scriptId":"u115"},
+    "cc8f753dcbf847e7b35633d50868c8d3":{
+      "scriptId":"u116"},
+    "a350f0fa184f4be9bd0855739d94cfda":{
+      "scriptId":"u117"},
+    "719b076bce324df5bcb49204130f0881":{
+      "scriptId":"u118"},
+    "9f311f7bc5144aee8c2a4c0b3b8f543a":{
+      "scriptId":"u119"},
+    "0dbf7ad10fac424792a3af2e49e3603c":{
+      "scriptId":"u120"},
+    "faf407c941bf417ab62cdf39380b4cd7":{
+      "scriptId":"u121"},
+    "8268ab402ff34ff2b63ed8fadb0c573e":{
+      "scriptId":"u122"},
+    "2436a3706c9f4cb8972e7f5946d8bf04":{
+      "scriptId":"u123"},
+    "546cc70b9a2b478587a481b4919f5a55":{
+      "scriptId":"u124"},
+    "6b6351c724b54251a28b3a3274ec0535":{
+      "scriptId":"u125"},
+    "a5362a5e011744ceaa43b88c97d4f42c":{
+      "scriptId":"u126"},
+    "4c2ae11c7c8e42d5a975244667285040":{
+      "scriptId":"u127"},
+    "8d9f4a70637b46f7af02fd2616f0c73f":{
+      "scriptId":"u128"},
+    "60726d7d82274b2b9ec562bd888c987f":{
+      "scriptId":"u129"},
+    "3cdb9a36c4d740bb876e837fd7ff2368":{
+      "scriptId":"u130"},
+    "4638332a6a3940e49a6bfbe92bef4280":{
+      "scriptId":"u131"},
+    "d0aed0dbd3ca43648c05cc2adb9f0f9c":{
+      "scriptId":"u132"},
+    "f6550f7f0deb4386a117d0cbfbb3289e":{
+      "scriptId":"u133"},
+    "ed6b32e7a7e444bf87e720b3e46c4ec4":{
+      "scriptId":"u134"},
+    "aec079e91bf34d22a7464193df110164":{
+      "scriptId":"u135"},
+    "a7516d85627e44ba9added149f6ee7d9":{
+      "scriptId":"u136"},
+    "a33ac3e8a01e45a5a9b3f0dc3988f839":{
+      "scriptId":"u137"},
+    "755bc956aa564e6d867ca76b407ae87e":{
+      "scriptId":"u138"},
+    "cd82e8892b8647b3901405cd76059329":{
+      "scriptId":"u139"},
+    "ec842dc7892e4f05b1a00a5338ae8cc3":{
+      "scriptId":"u140"},
+    "eca8689dc2f74947b7c99b376bac3d31":{
+      "scriptId":"u141"},
+    "f02b401c43a649a8af605e7a25db2ae5":{
+      "scriptId":"u142"},
+    "b2c86b66ae8a4365a20634072b22e802":{
+      "scriptId":"u143"},
+    "b79e69285d0146858e581bcfcb492b6b":{
+      "scriptId":"u144"},
+    "9eae1bf94a3a4da293e5879a92e8300f":{
+      "scriptId":"u145"},
+    "43c6b8ba3e7c4404931a4b5d54ccf480":{
+      "scriptId":"u146"},
+    "b61a18cb857b4ea8aa7430d3357df504":{
+      "scriptId":"u147"},
+    "693e91a3d2dd44a983f2c2feaaddb3cb":{
+      "scriptId":"u148"},
+    "2a0726c53d544c0cbfa668657a18015b":{
+      "scriptId":"u149"},
+    "ad637acafc044452aae6c69392e40b3b":{
+      "scriptId":"u150"},
+    "f3c98e1c65a34805a194ce55d177a905":{
+      "scriptId":"u151"},
+    "78d75d619e044cc29177d63185ce4219":{
+      "scriptId":"u152"},
+    "711b78d24b544aaea5315b1e23dd3e4b":{
+      "scriptId":"u153"},
+    "6d64432a7b774940aae41dfaa9fa5cd5":{
+      "scriptId":"u154"},
+    "16c3f33c6c43471aaa4f4497a9f660d9":{
+      "scriptId":"u155"},
+    "af2b2828f42240d19fda23cabd200125":{
+      "scriptId":"u156"},
+    "b4f3ecb6aca44f2ab1d7a3f373a05fdc":{
+      "scriptId":"u157"},
+    "36b5b09a938c4e8b8d3e7d216805c8d4":{
+      "scriptId":"u158"},
+    "d38bc512c294496c9c96a08e6d440768":{
+      "scriptId":"u159"},
+    "1672852a253541bd81c50fe3ea1636cd":{
+      "scriptId":"u160"},
+    "3c75f6d50444497abe730fca0c74f11e":{
+      "scriptId":"u161"},
+    "03c824d9c2c84039a274ccb796190f7f":{
+      "scriptId":"u162"},
+    "082cad1c5dfc4049ab71441dbbe66259":{
+      "scriptId":"u163"},
+    "38d84614881b41599b1b9502f46ec6f4":{
+      "scriptId":"u164"},
+    "c64c43680a134d8997e592524a00a4aa":{
+      "scriptId":"u165"},
+    "f634a4de09874525b2a1ff5ad82347ed":{
+      "scriptId":"u166"},
+    "bcfa1f8e11e24362a53cf4cc2a51d12c":{
+      "scriptId":"u167"},
+    "00c5c55239c4468cac244effa0c8ce2e":{
+      "scriptId":"u168"},
+    "cb6f1b88d90b41b39a2601a4e4d5f9de":{
+      "scriptId":"u169"},
+    "e128f19f08534c02a8ce175afa4376d3":{
+      "scriptId":"u170"},
+    "e975310f89af4db98f30d51e96ef501c":{
+      "scriptId":"u171"},
+    "7dd5f00640ab4b2084261da3dc9608ad":{
+      "scriptId":"u172"},
+    "de305e5828a24437bed078ef1fedac09":{
+      "scriptId":"u173"},
+    "4afe876861034d8483f97ebf95de37d9":{
+      "scriptId":"u174"},
+    "ec9ce584ca8a4a8b8e3e0d3e6a6dfa73":{
+      "scriptId":"u175"},
+    "1139c76e818d41abbbfa00518668b415":{
+      "scriptId":"u176"},
+    "eef80cedde5b42c8a31d079ab2d95b14":{
+      "scriptId":"u177"},
+    "0a10151b6f174b3caaaec4187c0e8d18":{
+      "scriptId":"u178"},
+    "dbcabe854e244b63974667f22c74045a":{
+      "scriptId":"u179"},
+    "69c681423dd04440805405c4c8327d14":{
+      "scriptId":"u180"},
+    "073992e5e56842bb946826166d14c10a":{
+      "scriptId":"u181"},
+    "f2bd7d0871c845229fff0400b6801e8b":{
+      "scriptId":"u182"},
+    "ea637545db914d3290c45044a8bba6a5":{
+      "scriptId":"u183"},
+    "1c13fb9555c14b768814db2169e464f5":{
+      "scriptId":"u184"},
+    "d006b7bc19fb4301bcf516f777414efb":{
+      "scriptId":"u185"},
+    "4a92cadfc3bb467bb45ef2cd4c756bf6":{
+      "scriptId":"u186"},
+    "c50b109a1de54bfebb8769a59df43e84":{
+      "scriptId":"u187"},
+    "cb27af45261d49e3966df3b8a736ac28":{
+      "scriptId":"u188"},
+    "e8a32f3619aa48c09abb7da2a2a55a6c":{
+      "scriptId":"u189"},
+    "f06cebddc89247f49f7e36f50fa82019":{
+      "scriptId":"u190"},
+    "2b3771bd86884a559a8f43d53d6c29e4":{
+      "scriptId":"u191"},
+    "7fe03e3ed42b4977b15655444caaae8c":{
+      "scriptId":"u192"},
+    "97c1086f72894351b44f10ac5aecd816":{
+      "scriptId":"u193"},
+    "f54f1d577ad74a0ba01690408bc62c49":{
+      "scriptId":"u194"},
+    "851d03a8279b49639fbdcbd3b08f96dd":{
+      "scriptId":"u195"},
+    "22be6c45e7534055a9bcb459ecd92113":{
+      "scriptId":"u196"},
+    "72f377d9262c45549c51fc83dd6e3986":{
+      "scriptId":"u197"},
+    "1fa9c621837548beb29e2d37626a7a02":{
+      "scriptId":"u198"},
+    "3ebb3aea9990432ab7d41c3727ecc6d0":{
+      "scriptId":"u199"},
+    "cdf14a055e654d0f89fc989bac138613":{
+      "scriptId":"u200"},
+    "832f9345500a4c2da754d4641eb2bd06":{
+      "scriptId":"u201"},
+    "2138c18bdae243f5859b5aafddc8579a":{
+      "scriptId":"u202"},
+    "d24eeabfc9084cd4ad8f148ab5027b2f":{
+      "scriptId":"u203"},
+    "f53080e226624e82bb7124ad1fbd0fb7":{
+      "scriptId":"u204"},
+    "21977801e2064aa9bd539087340b1dc0":{
+      "scriptId":"u205"},
+    "de57e505f78c46afa4b342ceb74bf3d5":{
+      "scriptId":"u206"},
+    "06c03641f9bb491597aca6a6f94ef288":{
+      "scriptId":"u207"},
+    "c3801488edaa436c9b57329fa584f33d":{
+      "scriptId":"u208"},
+    "4278614f272b4b0185967cb53c47d8e0":{
+      "scriptId":"u209"},
+    "023a4124f8fa49eb9755c80f85a34071":{
+      "scriptId":"u210"},
+    "9b50c14c01c749f6a1bac60587cff0a9":{
+      "scriptId":"u211"},
+    "5a99205be55545a986d015d9aab9ca71":{
+      "scriptId":"u212"},
+    "5fe161c03c454f8ea37be9578aec63ea":{
+      "scriptId":"u213"},
+    "301d4afa7f954ba7a84911b09824b480":{
+      "scriptId":"u214"},
+    "39837e1b82d44a1290d4f0780c902f77":{
+      "scriptId":"u215"},
+    "39dc1b64eb774c7f977a3c8dbec29da7":{
+      "scriptId":"u216"},
+    "0d787156aefb4ea0bd32bef9e27b0b34":{
+      "scriptId":"u217"},
+    "e9b612b9a29e49c096c9e2cc10a7cac4":{
+      "scriptId":"u218"},
+    "fdacf628d2e545e9becc8dc12ae219f3":{
+      "scriptId":"u219"},
+    "590098b97eed46adaa912d913cfccf13":{
+      "scriptId":"u220"},
+    "a55b18083c564ce0a793127ab82886c6":{
+      "scriptId":"u221"},
+    "7cdb3ee521c64d6898e43ea5a541d045":{
+      "scriptId":"u222"},
+    "e4b043f7b2744d14b61084c4bc237df0":{
+      "scriptId":"u223"},
+    "b80eba71f69140f2b1c7ef0dacfc152d":{
+      "scriptId":"u224"},
+    "40d4c7ec178e4753b746615aa3416fc8":{
+      "scriptId":"u225"},
+    "65b5b3660d7648718be48db5c47133ed":{
+      "scriptId":"u226"},
+    "33d0104d0ecb4073bbb0fc863c5bd4a5":{
+      "scriptId":"u227"},
+    "636a4b6ef689422889a1b15288d1e7a1":{
+      "scriptId":"u228"},
+    "0aa5125775724fb8932d2d891ee2260d":{
+      "scriptId":"u229"},
+    "8100bd2332b640898c595fff54b26374":{
+      "scriptId":"u230"},
+    "83f9f7bd2a1b4062942e06bca438f23c":{
+      "scriptId":"u231"},
+    "caef339f3e1e4e78b5809e22f64e8b20":{
+      "scriptId":"u232"},
+    "4de012235e0a45eca2462500013bd711":{
+      "scriptId":"u233"},
+    "c2478a3590534712b32c3cbf1a5da830":{
+      "scriptId":"u234"},
+    "9b080fc16266470fabc57014cf8f9359":{
+      "scriptId":"u235"},
+    "1f6d847b7b02482ba141e6c00f0ed7e0":{
+      "scriptId":"u236"},
+    "175ae2d9f19846f088b1ec5ca1904389":{
+      "scriptId":"u237"},
+    "ba9b24790a3241229adc5f1d7941f68f":{
+      "scriptId":"u238"},
+    "c64dce65ad4d46849edc6d3bb23f05b2":{
+      "scriptId":"u239"},
+    "bec59e37882e4ead8463e7e9f7825a63":{
+      "scriptId":"u240"},
+    "cd848788c43f412aa678d2cc5d26afa4":{
+      "scriptId":"u241"},
+    "8c6a492e9a174b108b3abf4a7de2eb1c":{
+      "scriptId":"u242"},
+    "800b0576d0044a86acb47f6615bd6e77":{
+      "scriptId":"u243"},
+    "c7f62be9f13340919cd4129f28e685c9":{
+      "scriptId":"u244"},
+    "eb8bbc4269ff41fab8b23ece43a49e2c":{
+      "scriptId":"u245"},
+    "3fea6da4f83b4330beb9be553611d962":{
+      "scriptId":"u246"},
+    "2b12283dfc32463d88a6e47953523ef2":{
+      "scriptId":"u247"},
+    "e1eb8a6edf754b788f6adbd148854672":{
+      "scriptId":"u248"},
+    "22ea879ad06c47c7a6dcc6ff208953bc":{
+      "scriptId":"u249"},
+    "dbaf08ea6fab436e8c242d556897c118":{
+      "scriptId":"u250"},
+    "db7c7d4b8e7648459ffd187815f84a1f":{
+      "scriptId":"u251"},
+    "206bd2651427426c92a3254be8f0e0a0":{
+      "scriptId":"u252"},
+    "8e9284cb8ddd4a7cb3e484f4b451d776":{
+      "scriptId":"u253"},
+    "fdbbc2f9fa9e41ebbf293eca16cc64f4":{
+      "scriptId":"u254"},
+    "e60b3a8158324cd7851feb9168215f59":{
+      "scriptId":"u255"},
+    "5d80cb33e53e48a4af7763498e9e1ca5":{
+      "scriptId":"u256"},
+    "10c91054ff53425ca462267d7c68aa0d":{
+      "scriptId":"u257"},
+    "54f0e98b54e5465bb5ba0bc64c559345":{
+      "scriptId":"u258"},
+    "96dac444cb664049b0b25f7865de79bf":{
+      "scriptId":"u259"},
+    "e1717dcf686048b597ddbba5ea4adced":{
+      "scriptId":"u260"},
+    "d0e1fa9135ae4abea9792e580b68474d":{
+      "scriptId":"u261"},
+    "3cfef9608cf64365b565ec26c9c9fba1":{
+      "scriptId":"u262"}}});
